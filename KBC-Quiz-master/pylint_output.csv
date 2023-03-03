@@ -1,0 +1,252 @@
+************* Module kbcQuiz
+kbcQuiz.py:19: [C0301(line-too-long), ] Line too long (105/100)
+kbcQuiz.py:28: [C0301(line-too-long), ] Line too long (121/100)
+kbcQuiz.py:31: [C0301(line-too-long), ] Line too long (101/100)
+kbcQuiz.py:40: [C0301(line-too-long), ] Line too long (118/100)
+kbcQuiz.py:44: [C0301(line-too-long), ] Line too long (112/100)
+kbcQuiz.py:52: [C0301(line-too-long), ] Line too long (125/100)
+kbcQuiz.py:129: [C0325(superfluous-parens), ] Unnecessary parens after 'while' keyword
+kbcQuiz.py:193: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:195: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:205: [C0325(superfluous-parens), ] Unnecessary parens after 'elif' keyword
+kbcQuiz.py:207: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:215: [C0325(superfluous-parens), ] Unnecessary parens after 'elif' keyword
+kbcQuiz.py:217: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:223: [C0325(superfluous-parens), ] Unnecessary parens after 'elif' keyword
+kbcQuiz.py:225: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:234: [C0325(superfluous-parens), ] Unnecessary parens after 'while' keyword
+kbcQuiz.py:241: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:242: [C0301(line-too-long), ] Line too long (120/100)
+kbcQuiz.py:244: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:246: [C0301(line-too-long), ] Line too long (104/100)
+kbcQuiz.py:252: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:254: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:256: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:258: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+kbcQuiz.py:310: [C0305(trailing-newlines), ] Trailing newlines
+kbcQuiz.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+kbcQuiz.py:1: [C0103(invalid-name), ] Module name "kbcQuiz" doesn't conform to snake_case naming style
+kbcQuiz.py:1: [C0115(missing-class-docstring), color] Missing class docstring
+kbcQuiz.py:1: [C0103(invalid-name), color] Class name "color" doesn't conform to PascalCase naming style
+kbcQuiz.py:1: [R0903(too-few-public-methods), color] Too few public methods (0/2)
+kbcQuiz.py:14: [C0116(missing-function-docstring), skiptheanswer] Missing function or method docstring
+kbcQuiz.py:18: [C0116(missing-function-docstring), fiftyfifty] Missing function or method docstring
+kbcQuiz.py:22: [C0116(missing-function-docstring), audiencepoll] Missing function or method docstring
+kbcQuiz.py:27: [C0116(missing-function-docstring), googlehelp] Missing function or method docstring
+kbcQuiz.py:34: [C0116(missing-function-docstring), info] Missing function or method docstring
+kbcQuiz.py:53: [C0103(invalid-name), info] Variable name "h" doesn't conform to snake_case naming style
+kbcQuiz.py:66: [W1514(unspecified-encoding), ] Using open without explicitly specifying an encoding
+kbcQuiz.py:67: [C0103(invalid-name), ] Constant name "a" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:68: [C0103(invalid-name), ] Constant name "b" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:69: [C0103(invalid-name), ] Constant name "q" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:70: [C0103(invalid-name), ] Constant name "lf" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:71: [C0103(invalid-name), ] Constant name "au" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:73: [C0103(invalid-name), ] Constant name "ff" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:74: [C0103(invalid-name), ] Constant name "sk" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:76: [C0103(invalid-name), ] Constant name "win_amount" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:79: [C0116(missing-function-docstring), win_amt] Missing function or method docstring
+kbcQuiz.py:80: [C0103(invalid-name), win_amt] Constant name "win_amount" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:80: [W0603(global-statement), win_amt] Using the global statement
+kbcQuiz.py:81: [C0103(invalid-name), win_amt] Constant name "answ" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:81: [W0602(global-variable-not-assigned), win_amt] Using global for 'answ' but no assignment is done
+kbcQuiz.py:82: [C0103(invalid-name), win_amt] Constant name "b" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:82: [W0602(global-variable-not-assigned), win_amt] Using global for 'b' but no assignment is done
+kbcQuiz.py:83: [C0103(invalid-name), win_amt] Constant name "a" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:83: [W0602(global-variable-not-assigned), win_amt] Using global for 'a' but no assignment is done
+kbcQuiz.py:86: [R1714(consider-using-in), win_amt] Consider merging these comparisons with 'in' by using 'a in (12, 54, 48, 72)'. Use a set instead if elements are hashable.
+kbcQuiz.py:89: [R1714(consider-using-in), win_amt] Consider merging these comparisons with 'in' by using 'a in (6, 24, 30, 66)'. Use a set instead if elements are hashable.
+kbcQuiz.py:92: [R1714(consider-using-in), win_amt] Consider merging these comparisons with 'in' by using 'a in (18, 36)'. Use a set instead if elements are hashable.
+kbcQuiz.py:95: [R1714(consider-using-in), win_amt] Consider merging these comparisons with 'in' by using 'a in (42, 60)'. Use a set instead if elements are hashable.
+kbcQuiz.py:105: [C0116(missing-function-docstring), check_answ] Missing function or method docstring
+kbcQuiz.py:106: [C0103(invalid-name), check_answ] Constant name "a" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:106: [W0602(global-variable-not-assigned), check_answ] Using global for 'a' but no assignment is done
+kbcQuiz.py:107: [C0103(invalid-name), check_answ] Constant name "answ" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:107: [W0602(global-variable-not-assigned), check_answ] Using global for 'answ' but no assignment is done
+kbcQuiz.py:108: [R0916(too-many-boolean-expressions), check_answ] Too many boolean expressions in if statement (6/5)
+kbcQuiz.py:108: [R1714(consider-using-in), check_answ] Consider merging these comparisons with 'in' by using 'a in (0, 12, 54, 48, 72)'. Use a set instead if elements are hashable.
+kbcQuiz.py:111: [R1714(consider-using-in), check_answ] Consider merging these comparisons with 'in' by using 'a in (6, 24, 30, 66)'. Use a set instead if elements are hashable.
+kbcQuiz.py:114: [R1714(consider-using-in), check_answ] Consider merging these comparisons with 'in' by using 'a in (18, 36)'. Use a set instead if elements are hashable.
+kbcQuiz.py:117: [R1714(consider-using-in), check_answ] Consider merging these comparisons with 'in' by using 'a in (42, 60)'. Use a set instead if elements are hashable.
+kbcQuiz.py:123: [R1722(consider-using-sys-exit), check_answ] Consider using 'sys.exit' instead
+kbcQuiz.py:126: [C0413(wrong-import-position), ] Import "import time" should be placed at the top of the module
+kbcQuiz.py:128: [C0116(missing-function-docstring), countdown] Missing function or method docstring
+kbcQuiz.py:128: [C0103(invalid-name), countdown] Argument name "n" doesn't conform to snake_case naming style
+kbcQuiz.py:136: [C0116(missing-function-docstring), audiencepoll] Missing function or method docstring
+kbcQuiz.py:136: [E0102(function-redefined), audiencepoll] function already defined line 22
+kbcQuiz.py:138: [R1714(consider-using-in), audiencepoll] Consider merging these comparisons with 'in' by using 'a in (0, 12, 54, 48, 72)'. Use a set instead if elements are hashable.
+kbcQuiz.py:140: [R1714(consider-using-in), audiencepoll] Consider merging these comparisons with 'in' by using 'a in (6, 24, 30, 66)'. Use a set instead if elements are hashable.
+kbcQuiz.py:142: [R1714(consider-using-in), audiencepoll] Consider merging these comparisons with 'in' by using 'a in (18, 36)'. Use a set instead if elements are hashable.
+kbcQuiz.py:144: [R1714(consider-using-in), audiencepoll] Consider merging these comparisons with 'in' by using 'a in (42, 60)'. Use a set instead if elements are hashable.
+kbcQuiz.py:150: [C0116(missing-function-docstring), fifty] Missing function or method docstring
+kbcQuiz.py:151: [R1714(consider-using-in), fifty] Consider merging these comparisons with 'in' by using 'a in (0, 12, 54, 48, 72)'. Use a set instead if elements are hashable.
+kbcQuiz.py:153: [R1714(consider-using-in), fifty] Consider merging these comparisons with 'in' by using 'a in (6, 24, 30, 66)'. Use a set instead if elements are hashable.
+kbcQuiz.py:155: [R1714(consider-using-in), fifty] Consider merging these comparisons with 'in' by using 'a in (18, 36)'. Use a set instead if elements are hashable.
+kbcQuiz.py:157: [R1714(consider-using-in), fifty] Consider merging these comparisons with 'in' by using 'a in (42, 60)'. Use a set instead if elements are hashable.
+kbcQuiz.py:159: [C0116(missing-function-docstring), skipques] Missing function or method docstring
+kbcQuiz.py:160: [R1714(consider-using-in), skipques] Consider merging these comparisons with 'in' by using 'a in (0, 12, 54, 48, 72)'. Use a set instead if elements are hashable.
+kbcQuiz.py:162: [R1714(consider-using-in), skipques] Consider merging these comparisons with 'in' by using 'a in (6, 24, 30, 66)'. Use a set instead if elements are hashable.
+kbcQuiz.py:164: [R1714(consider-using-in), skipques] Consider merging these comparisons with 'in' by using 'a in (18, 36)'. Use a set instead if elements are hashable.
+kbcQuiz.py:166: [R1714(consider-using-in), skipques] Consider merging these comparisons with 'in' by using 'a in (42, 60)'. Use a set instead if elements are hashable.
+kbcQuiz.py:170: [C0116(missing-function-docstring), expert] Missing function or method docstring
+kbcQuiz.py:171: [C0103(invalid-name), expert] Constant name "a" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:171: [W0602(global-variable-not-assigned), expert] Using global for 'a' but no assignment is done
+kbcQuiz.py:172: [R1714(consider-using-in), expert] Consider merging these comparisons with 'in' by using 'a in (0, 12, 54, 48, 72)'. Use a set instead if elements are hashable.
+kbcQuiz.py:174: [R1714(consider-using-in), expert] Consider merging these comparisons with 'in' by using 'a in (6, 24, 30, 66)'. Use a set instead if elements are hashable.
+kbcQuiz.py:176: [R1714(consider-using-in), expert] Consider merging these comparisons with 'in' by using 'a in (18, 36)'. Use a set instead if elements are hashable.
+kbcQuiz.py:178: [R1714(consider-using-in), expert] Consider merging these comparisons with 'in' by using 'a in (42, 60)'. Use a set instead if elements are hashable.
+kbcQuiz.py:182: [C0116(missing-function-docstring), lifeline] Missing function or method docstring
+kbcQuiz.py:192: [C0103(invalid-name), lifeline] Variable name "l" doesn't conform to snake_case naming style
+kbcQuiz.py:193: [R1705(no-else-return), lifeline] Unnecessary "elif" after "return", remove the leading "el" from "elif"
+kbcQuiz.py:194: [C0103(invalid-name), lifeline] Constant name "au" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:194: [W0603(global-statement), lifeline] Using the global statement
+kbcQuiz.py:206: [C0103(invalid-name), lifeline] Constant name "ff" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:206: [W0603(global-statement), lifeline] Using the global statement
+kbcQuiz.py:216: [C0103(invalid-name), lifeline] Constant name "sk" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:216: [W0603(global-statement), lifeline] Using the global statement
+kbcQuiz.py:224: [W0603(global-statement), lifeline] Using the global statement
+kbcQuiz.py:182: [R1710(inconsistent-return-statements), lifeline] Either all return statements in a function should return an expression, or none of them should.
+kbcQuiz.py:264: [R1716(chained-comparison), ] Simplify chained comparison between the operands
+kbcQuiz.py:268: [R0916(too-many-boolean-expressions), ] Too many boolean expressions in if statement (6/5)
+kbcQuiz.py:268: [R1714(consider-using-in), ] Consider merging these comparisons with 'in' by using 'a in (0, 12, 54, 48, 72)'. Use a set instead if elements are hashable.
+kbcQuiz.py:271: [R1714(consider-using-in), ] Consider merging these comparisons with 'in' by using 'a in (6, 24, 30, 66)'. Use a set instead if elements are hashable.
+kbcQuiz.py:274: [R1714(consider-using-in), ] Consider merging these comparisons with 'in' by using 'a in (18, 36)'. Use a set instead if elements are hashable.
+kbcQuiz.py:277: [R1714(consider-using-in), ] Consider merging these comparisons with 'in' by using 'a in (42, 60)'. Use a set instead if elements are hashable.
+kbcQuiz.py:283: [W0101(unreachable), ] Unreachable code
+kbcQuiz.py:282: [R1722(consider-using-sys-exit), ] Consider using 'sys.exit' instead
+kbcQuiz.py:287: [R0916(too-many-boolean-expressions), ] Too many boolean expressions in if statement (6/5)
+kbcQuiz.py:287: [R1714(consider-using-in), ] Consider merging these comparisons with 'in' by using 'a in (0, 12, 54, 48, 72)'. Use a set instead if elements are hashable.
+kbcQuiz.py:289: [R1714(consider-using-in), ] Consider merging these comparisons with 'in' by using 'a in (6, 24, 30, 66)'. Use a set instead if elements are hashable.
+kbcQuiz.py:291: [R1714(consider-using-in), ] Consider merging these comparisons with 'in' by using 'a in (18, 36)'. Use a set instead if elements are hashable.
+kbcQuiz.py:293: [R1714(consider-using-in), ] Consider merging these comparisons with 'in' by using 'a in (42, 60)'. Use a set instead if elements are hashable.
+kbcQuiz.py:297: [R1722(consider-using-sys-exit), ] Consider using 'sys.exit' instead
+kbcQuiz.py:305: [C0103(invalid-name), ] Constant name "a" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:306: [C0103(invalid-name), ] Constant name "b" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:307: [C0103(invalid-name), ] Constant name "q" doesn't conform to UPPER_CASE naming style
+kbcQuiz.py:66: [R1732(consider-using-with), ] Consider using 'with' for resource-allocating operations
+
+
+Report
+======
+244 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+|class    |1      |1          |=          |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |13     |13         |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+312 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |257    |82.37 |257      |=          |
++----------+-------+------+---------+-----------+
+|docstring |1      |0.32  |1        |=          |
++----------+-------+------+---------+-----------+
+|comment   |4      |1.28  |4        |=          |
++----------+-------+------+---------+-----------+
+|empty     |50     |16.03 |50       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |67     |67       |67         |
++-----------+-------+---------+-----------+
+|refactor   |43     |43       |43         |
++-----------+-------+---------+-----------+
+|warning    |13     |13       |13         |
++-----------+-------+---------+-----------+
+|error      |1      |1        |1          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++-------------------------------+------------+
+|message id                     |occurrences |
++===============================+============+
+|consider-using-in              |32          |
++-------------------------------+------------+
+|invalid-name                   |26          |
++-------------------------------+------------+
+|superfluous-parens             |16          |
++-------------------------------+------------+
+|missing-function-docstring     |13          |
++-------------------------------+------------+
+|line-too-long                  |8           |
++-------------------------------+------------+
+|global-variable-not-assigned   |6           |
++-------------------------------+------------+
+|global-statement               |5           |
++-------------------------------+------------+
+|too-many-boolean-expressions   |3           |
++-------------------------------+------------+
+|consider-using-sys-exit        |3           |
++-------------------------------+------------+
+|wrong-import-position          |1           |
++-------------------------------+------------+
+|unspecified-encoding           |1           |
++-------------------------------+------------+
+|unreachable                    |1           |
++-------------------------------+------------+
+|trailing-newlines              |1           |
++-------------------------------+------------+
+|too-few-public-methods         |1           |
++-------------------------------+------------+
+|no-else-return                 |1           |
++-------------------------------+------------+
+|missing-module-docstring       |1           |
++-------------------------------+------------+
+|missing-class-docstring        |1           |
++-------------------------------+------------+
+|inconsistent-return-statements |1           |
++-------------------------------+------------+
+|function-redefined             |1           |
++-------------------------------+------------+
+|consider-using-with            |1           |
++-------------------------------+------------+
+|chained-comparison             |1           |
++-------------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 4.75/10 (previous run: 4.75/10, +0.00)
+

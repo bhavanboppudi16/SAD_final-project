@@ -1,0 +1,123 @@
+************* Module app
+app.py:10: [C0301(line-too-long), ] Line too long (102/100)
+app.py:12: [C0303(trailing-whitespace), ] Trailing whitespace
+app.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+app.py:1: [W0401(wildcard-import), ] Wildcard import tkinter
+app.py:3: [E0401(import-error), ] Unable to import 'pygame'
+app.py:5: [C0115(missing-class-docstring), MusicPlayer] Missing class docstring
+app.py:7: [C0321(multiple-statements), MusicPlayer.__init__] More than one statement on a single line
+app.py:8: [C0103(invalid-name), MusicPlayer.__init__] Variable name "Load" doesn't conform to snake_case naming style
+app.py:9: [C0103(invalid-name), MusicPlayer.__init__] Variable name "Play" doesn't conform to snake_case naming style
+app.py:10: [C0103(invalid-name), MusicPlayer.__init__] Variable name "Pause" doesn't conform to snake_case naming style
+app.py:11: [C0103(invalid-name), MusicPlayer.__init__] Variable name "Stop" doesn't conform to snake_case naming style
+app.py:12: [C0321(multiple-statements), MusicPlayer.__init__] More than one statement on a single line
+app.py:15: [C0116(missing-function-docstring), MusicPlayer.load] Missing function or method docstring
+app.py:17: [C0116(missing-function-docstring), MusicPlayer.play] Missing function or method docstring
+app.py:22: [C0116(missing-function-docstring), MusicPlayer.pause] Missing function or method docstring
+app.py:29: [C0116(missing-function-docstring), MusicPlayer.stop] Missing function or method docstring
+app.py:1: [W0614(unused-wildcard-import), ] Unused import(s) collections, enum, sys, types, TclError, re, wantobjects, TkVersion, TclVersion, READABLE, WRITABLE, EXCEPTION, EventType, Event, NoDefaultRoot, Variable, StringVar, IntVar, DoubleVar, BooleanVar, mainloop, getint, getdouble, getboolean, Misc, CallWrapper, XView, YView, Wm, Tcl, Pack, Place, Grid, BaseWidget, Widget, Toplevel, Canvas, Checkbutton, Entry, Frame, Label, Listbox, Menu, Menubutton, Message, Radiobutton, Scale, Scrollbar, Text, OptionMenu, Image, PhotoImage, BitmapImage, image_names, image_types, Spinbox, LabelFrame, PanedWindow, NO, FALSE, OFF, YES, TRUE, ON, N, S, W, E, NW, SW, NE, SE, NS, EW, NSEW, CENTER, NONE, X, Y, BOTH, LEFT, TOP, RIGHT, BOTTOM, RAISED, SUNKEN, FLAT, RIDGE, GROOVE, SOLID, HORIZONTAL, VERTICAL, NUMERIC, CHAR, WORD, BASELINE, INSIDE, OUTSIDE, SEL, SEL_FIRST, SEL_LAST, END, INSERT, CURRENT, ANCHOR, ALL, NORMAL, DISABLED, ACTIVE, HIDDEN, CASCADE, CHECKBUTTON, COMMAND, RADIOBUTTON, SEPARATOR, SINGLE, BROWSE, MULTIPLE, EXTENDED, DOTBOX, UNDERLINE, PIESLICE, CHORD, ARC, FIRST, LAST, BUTT, PROJECTING, ROUND, BEVEL, MITER, MOVETO, SCROLL, UNITS and PAGES from wildcard import of tkinter
+
+
+Report
+======
+36 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |1      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|method   |5      |NC         |NC         |20.00       |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|function |0      |1          |-1.00      |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+35 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |33     |94.29 |19       |+14.00     |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |0      |0.00  |1        |-1.00      |
++----------+-------+------+---------+-----------+
+|empty     |2      |5.71  |8        |-6.00      |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |14     |6        |6          |
++-----------+-------+---------+-----------+
+|refactor   |0      |0        |0          |
++-----------+-------+---------+-----------+
+|warning    |2      |0        |0          |
++-----------+-------+---------+-----------+
+|error      |1      |1        |1          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|missing-function-docstring |4           |
++---------------------------+------------+
+|invalid-name               |4           |
++---------------------------+------------+
+|multiple-statements        |2           |
++---------------------------+------------+
+|wildcard-import            |1           |
++---------------------------+------------+
+|unused-wildcard-import     |1           |
++---------------------------+------------+
+|trailing-whitespace        |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|missing-class-docstring    |1           |
++---------------------------+------------+
+|line-too-long              |1           |
++---------------------------+------------+
+|import-error               |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 4.17/10 (previous run: 3.12/10, +1.04)
+

@@ -1,0 +1,137 @@
+************* Module VirtualPaint
+VirtualPaint.py:73: [C0305(trailing-newlines), ] Trailing newlines
+VirtualPaint.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+VirtualPaint.py:1: [C0103(invalid-name), ] Module name "VirtualPaint" doesn't conform to snake_case naming style
+VirtualPaint.py:1: [E0401(import-error), ] Unable to import 'cv2'
+VirtualPaint.py:4: [C0103(invalid-name), ] Constant name "frameWidth" doesn't conform to UPPER_CASE naming style
+VirtualPaint.py:5: [C0103(invalid-name), ] Constant name "frameHeight" doesn't conform to UPPER_CASE naming style
+VirtualPaint.py:25: [C0116(missing-function-docstring), findColor] Missing function or method docstring
+VirtualPaint.py:25: [C0103(invalid-name), findColor] Function name "findColor" doesn't conform to snake_case naming style
+VirtualPaint.py:25: [C0103(invalid-name), findColor] Argument name "myColors" doesn't conform to snake_case naming style
+VirtualPaint.py:25: [C0103(invalid-name), findColor] Argument name "myColorValues" doesn't conform to snake_case naming style
+VirtualPaint.py:25: [W0621(redefined-outer-name), findColor] Redefining name 'img' from outer scope (line 61)
+VirtualPaint.py:25: [W0621(redefined-outer-name), findColor] Redefining name 'myColors' from outer scope (line 12)
+VirtualPaint.py:25: [W0621(redefined-outer-name), findColor] Redefining name 'myColorValues' from outer scope (line 17)
+VirtualPaint.py:28: [W0621(redefined-outer-name), findColor] Redefining name 'newPoints' from outer scope (line 63)
+VirtualPaint.py:26: [C0103(invalid-name), findColor] Variable name "imgHSV" doesn't conform to snake_case naming style
+VirtualPaint.py:28: [C0103(invalid-name), findColor] Variable name "newPoints" doesn't conform to snake_case naming style
+VirtualPaint.py:33: [C0103(invalid-name), findColor] Variable name "x" doesn't conform to snake_case naming style
+VirtualPaint.py:33: [C0103(invalid-name), findColor] Variable name "y" doesn't conform to snake_case naming style
+VirtualPaint.py:41: [C0116(missing-function-docstring), getContours] Missing function or method docstring
+VirtualPaint.py:41: [C0103(invalid-name), getContours] Function name "getContours" doesn't conform to snake_case naming style
+VirtualPaint.py:41: [W0621(redefined-outer-name), getContours] Redefining name 'img' from outer scope (line 61)
+VirtualPaint.py:43: [C0103(invalid-name), getContours] Variable name "x" doesn't conform to snake_case naming style
+VirtualPaint.py:43: [C0103(invalid-name), getContours] Variable name "y" doesn't conform to snake_case naming style
+VirtualPaint.py:43: [C0103(invalid-name), getContours] Variable name "w" doesn't conform to snake_case naming style
+VirtualPaint.py:43: [C0103(invalid-name), getContours] Variable name "h" doesn't conform to snake_case naming style
+VirtualPaint.py:50: [C0103(invalid-name), getContours] Variable name "x" doesn't conform to snake_case naming style
+VirtualPaint.py:50: [C0103(invalid-name), getContours] Variable name "y" doesn't conform to snake_case naming style
+VirtualPaint.py:50: [C0103(invalid-name), getContours] Variable name "w" doesn't conform to snake_case naming style
+VirtualPaint.py:50: [C0103(invalid-name), getContours] Variable name "h" doesn't conform to snake_case naming style
+VirtualPaint.py:42: [W0612(unused-variable), getContours] Unused variable 'hierarchy'
+VirtualPaint.py:43: [W0612(unused-variable), getContours] Unused variable 'h'
+VirtualPaint.py:54: [C0116(missing-function-docstring), drawOnCanvas] Missing function or method docstring
+VirtualPaint.py:54: [C0103(invalid-name), drawOnCanvas] Function name "drawOnCanvas" doesn't conform to snake_case naming style
+VirtualPaint.py:54: [C0103(invalid-name), drawOnCanvas] Argument name "myPoints" doesn't conform to snake_case naming style
+VirtualPaint.py:54: [C0103(invalid-name), drawOnCanvas] Argument name "myColorValues" doesn't conform to snake_case naming style
+VirtualPaint.py:54: [W0621(redefined-outer-name), drawOnCanvas] Redefining name 'myPoints' from outer scope (line 22)
+VirtualPaint.py:54: [W0621(redefined-outer-name), drawOnCanvas] Redefining name 'myColorValues' from outer scope (line 17)
+
+
+Report
+======
+50 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |3      |3          |=          |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+75 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |58     |77.33 |58       |=          |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |2      |2.67  |2        |=          |
++----------+-------+------+---------+-----------+
+|empty     |15     |20.00 |15       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |27     |27       |27         |
++-----------+-------+---------+-----------+
+|refactor   |0      |0        |0          |
++-----------+-------+---------+-----------+
+|warning    |9      |9        |9          |
++-----------+-------+---------+-----------+
+|error      |1      |1        |1          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|invalid-name               |22          |
++---------------------------+------------+
+|redefined-outer-name       |7           |
++---------------------------+------------+
+|missing-function-docstring |3           |
++---------------------------+------------+
+|unused-variable            |2           |
++---------------------------+------------+
+|trailing-newlines          |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|import-error               |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 1.80/10 (previous run: 1.80/10, +0.00)
+

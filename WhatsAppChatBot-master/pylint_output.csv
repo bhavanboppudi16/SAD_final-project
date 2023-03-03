@@ -1,0 +1,185 @@
+************* Module WhatsAppChatBot
+WhatsAppChatBot.py:12: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:28: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:35: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:37: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:41: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:49: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:50: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:51: [C0301(line-too-long), ] Line too long (135/100)
+WhatsAppChatBot.py:66: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:70: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+WhatsAppChatBot.py:76: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:84: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:87: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:90: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:93: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:96: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:99: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:107: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:116: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:128: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:134: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:140: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:142: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:146: [C0303(trailing-whitespace), ] Trailing whitespace
+WhatsAppChatBot.py:150: [C0304(missing-final-newline), ] Final newline missing
+WhatsAppChatBot.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+WhatsAppChatBot.py:1: [C0103(invalid-name), ] Module name "WhatsAppChatBot" doesn't conform to snake_case naming style
+WhatsAppChatBot.py:1: [E0401(import-error), ] Unable to import 'pyautogui'
+WhatsAppChatBot.py:4: [E0401(import-error), ] Unable to import 'bs4'
+WhatsAppChatBot.py:8: [E0401(import-error), ] Unable to import 'wikipedia'
+WhatsAppChatBot.py:11: [E0401(import-error), ] Unable to import 'pyttsx3'
+WhatsAppChatBot.py:16: [C0103(invalid-name), ] Constant name "lastwrd" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:17: [C0103(invalid-name), ] Constant name "counter1" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:18: [C0103(invalid-name), ] Constant name "counter2" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:19: [C0103(invalid-name), ] Constant name "counter3" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:20: [C0103(invalid-name), ] Constant name "counter4" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:21: [C0103(invalid-name), ] Constant name "counter5" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:29: [C0116(missing-function-docstring), send] Missing function or method docstring
+WhatsAppChatBot.py:30: [C0209(consider-using-f-string), send] Formatting a regular string which could be a f-string
+WhatsAppChatBot.py:147: [W0718(broad-exception-caught), ] Catching too general exception Exception
+WhatsAppChatBot.py:48: [C0103(invalid-name), ] Constant name "cb" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:57: [C0103(invalid-name), ] Constant name "good" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:58: [R1716(chained-comparison), ] Simplify chained comparison between the operands
+WhatsAppChatBot.py:59: [C0103(invalid-name), ] Constant name "good" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:61: [C0103(invalid-name), ] Constant name "good" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:63: [C0209(consider-using-f-string), ] Formatting a regular string which could be a f-string
+WhatsAppChatBot.py:78: [C0103(invalid-name), ] Constant name "counter3" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:83: [C0209(consider-using-f-string), ] Formatting a regular string which could be a f-string
+WhatsAppChatBot.py:106: [C0209(consider-using-f-string), ] Formatting a regular string which could be a f-string
+WhatsAppChatBot.py:115: [C0209(consider-using-f-string), ] Formatting a regular string which could be a f-string
+WhatsAppChatBot.py:119: [C0103(invalid-name), ] Constant name "news_url" doesn't conform to UPPER_CASE naming style
+WhatsAppChatBot.py:131: [C0209(consider-using-f-string), ] Formatting a regular string which could be a f-string
+WhatsAppChatBot.py:150: [W0107(unnecessary-pass), ] Unnecessary pass statement
+WhatsAppChatBot.py:2: [C0411(wrong-import-order), ] standard import "import webbrowser as w" should be placed before "import pyautogui as p"
+WhatsAppChatBot.py:5: [C0411(wrong-import-order), ] standard import "import time" should be placed before "import pyautogui as p"
+WhatsAppChatBot.py:6: [C0411(wrong-import-order), ] standard import "import tkinter" should be placed before "import pyautogui as p"
+WhatsAppChatBot.py:7: [C0411(wrong-import-order), ] standard import "import random" should be placed before "import pyautogui as p"
+WhatsAppChatBot.py:9: [C0411(wrong-import-order), ] standard import "import re" should be placed before "import pyautogui as p"
+WhatsAppChatBot.py:10: [C0411(wrong-import-order), ] standard import "from urllib.request import urlopen" should be placed before "import pyautogui as p"
+WhatsAppChatBot.py:120: [R1732(consider-using-with), ] Consider using 'with' for resource-allocating operations
+WhatsAppChatBot.py:3: [W0611(unused-import), ] Unused import requests
+
+
+Report
+======
+120 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+External dependencies
+---------------------
+::
+
+    requests (WhatsAppChatBot)
+
+
+
+152 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |127    |83.55 |127      |=          |
++----------+-------+------+---------+-----------+
+|docstring |5      |3.29  |5        |=          |
++----------+-------+------+---------+-----------+
+|comment   |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|empty     |20     |13.16 |20       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |52     |52       |52         |
++-----------+-------+---------+-----------+
+|refactor   |2      |2        |2          |
++-----------+-------+---------+-----------+
+|warning    |3      |3        |3          |
++-----------+-------+---------+-----------+
+|error      |4      |4        |4          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|trailing-whitespace        |22          |
++---------------------------+------------+
+|invalid-name               |13          |
++---------------------------+------------+
+|wrong-import-order         |6           |
++---------------------------+------------+
+|consider-using-f-string    |6           |
++---------------------------+------------+
+|import-error               |4           |
++---------------------------+------------+
+|unused-import              |1           |
++---------------------------+------------+
+|unnecessary-pass           |1           |
++---------------------------+------------+
+|superfluous-parens         |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|missing-function-docstring |1           |
++---------------------------+------------+
+|missing-final-newline      |1           |
++---------------------------+------------+
+|line-too-long              |1           |
++---------------------------+------------+
+|consider-using-with        |1           |
++---------------------------+------------+
+|chained-comparison         |1           |
++---------------------------+------------+
+|broad-exception-caught     |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 3.58/10 (previous run: 3.58/10, +0.00)
+

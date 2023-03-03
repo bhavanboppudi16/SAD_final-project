@@ -1,0 +1,402 @@
+************* Module cosmo
+cosmo.py:2: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:17: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:20: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:23: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:24: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:25: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:26: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:27: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:28: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:29: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:30: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:31: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:32: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:33: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:35: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+cosmo.py:37: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:38: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+cosmo.py:39: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:40: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:41: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:42: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:43: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:44: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:44: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+cosmo.py:45: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:46: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:49: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:50: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:50: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:53: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:54: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:55: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:56: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:57: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:59: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:61: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:61: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:62: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:63: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:64: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:65: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:66: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:68: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:69: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:70: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+cosmo.py:71: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:72: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:73: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:76: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:77: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:78: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:79: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:80: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:81: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:82: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:83: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:84: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:87: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:88: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:89: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:90: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:91: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:92: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:93: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:96: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:97: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:98: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:99: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:100: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+cosmo.py:101: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:102: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:103: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:104: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:106: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:107: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:108: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:109: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:110: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:111: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:112: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:113: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:114: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:115: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:116: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:117: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:122: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:124: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:127: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:128: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:129: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:130: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:131: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:132: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:133: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:134: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:135: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:138: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:139: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:140: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:141: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:142: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:144: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:145: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:146: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:147: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:148: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:148: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:149: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:150: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:151: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:152: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:155: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:156: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:157: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:158: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:159: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:160: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:161: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:162: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:163: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:163: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:164: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:165: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:166: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:167: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:170: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:171: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:172: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:173: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:174: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:175: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:176: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:177: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:178: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:178: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:179: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:180: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:182: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:183: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:184: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:186: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:187: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:188: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:191: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:192: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:199: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:201: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:202: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:203: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:242: [C0301(line-too-long), ] Line too long (113/100)
+cosmo.py:250: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:251: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:264: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:265: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:266: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:267: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:268: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:269: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:270: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:271: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:273: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:277: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:278: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:279: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:281: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:281: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:282: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:283: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:284: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+cosmo.py:285: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:287: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+cosmo.py:288: [C0303(trailing-whitespace), ] Trailing whitespace
+cosmo.py:292: [C0305(trailing-newlines), ] Trailing newlines
+cosmo.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+cosmo.py:2: [W0401(wildcard-import), ] Wildcard import tkinter
+cosmo.py:4: [W0401(wildcard-import), ] Wildcard import config_tk
+cosmo.py:7: [C0410(multiple-imports), ] Multiple imports on one line (sys, os, re, threading, json)
+cosmo.py:9: [E0401(import-error), ] Unable to import 'PIL'
+cosmo.py:19: [W1514(unspecified-encoding), ] Using open without explicitly specifying an encoding
+cosmo.py:22: [C0103(invalid-name), regular_ex] Argument name "e" doesn't conform to snake_case naming style
+cosmo.py:45: [W0702(bare-except), regular_ex] No exception type(s) specified
+cosmo.py:22: [W0613(unused-argument), regular_ex] Unused argument 'e'
+cosmo.py:25: [W0612(unused-variable), regular_ex] Unused variable 'file_n'
+cosmo.py:48: [W0613(unused-argument), delete] Unused argument 'event'
+cosmo.py:52: [C0103(invalid-name), Open] Function name "Open" doesn't conform to snake_case naming style
+cosmo.py:52: [C0103(invalid-name), Open] Argument name "e" doesn't conform to snake_case naming style
+cosmo.py:64: [W0621(redefined-outer-name), Open] Redefining name 'f' from outer scope (line 264)
+cosmo.py:65: [W0621(redefined-outer-name), Open] Redefining name 'data' from outer scope (line 20)
+cosmo.py:54: [C0103(invalid-name), Open] Constant name "f_name" doesn't conform to UPPER_CASE naming style
+cosmo.py:54: [W0601(global-variable-undefined), Open] Global variable 'f_name' undefined at the module level
+cosmo.py:72: [W0702(bare-except), Open] No exception type(s) specified
+cosmo.py:63: [C0209(consider-using-f-string), Open] Formatting a regular string which could be a f-string
+cosmo.py:64: [C0103(invalid-name), Open] Variable name "f" doesn't conform to snake_case naming style
+cosmo.py:68: [C0103(invalid-name), Open] Variable name "f2" doesn't conform to snake_case naming style
+cosmo.py:70: [C0209(consider-using-f-string), Open] Formatting a regular string which could be a f-string
+cosmo.py:52: [W0613(unused-argument), Open] Unused argument 'e'
+cosmo.py:69: [W0612(unused-variable), Open] Unused variable 'line'
+cosmo.py:80: [W0621(redefined-outer-name), save] Redefining name 'data' from outer scope (line 20)
+cosmo.py:77: [C0103(invalid-name), save] Constant name "f_name" doesn't conform to UPPER_CASE naming style
+cosmo.py:77: [W0601(global-variable-undefined), save] Global variable 'f_name' undefined at the module level
+cosmo.py:83: [W0702(bare-except), save] No exception type(s) specified
+cosmo.py:86: [C0103(invalid-name), save_e] Argument name "e" doesn't conform to snake_case naming style
+cosmo.py:89: [W0621(redefined-outer-name), save_e] Redefining name 'data' from outer scope (line 20)
+cosmo.py:92: [W0702(bare-except), save_e] No exception type(s) specified
+cosmo.py:86: [W0613(unused-argument), save_e] Unused argument 'e'
+cosmo.py:95: [C0116(missing-function-docstring), new_file] Missing function or method docstring
+cosmo.py:95: [C0103(invalid-name), new_file] Argument name "e" doesn't conform to snake_case naming style
+cosmo.py:99: [W0621(redefined-outer-name), new_file] Redefining name 'f' from outer scope (line 264)
+cosmo.py:96: [C0103(invalid-name), new_file] Constant name "f_name" doesn't conform to UPPER_CASE naming style
+cosmo.py:96: [W0601(global-variable-undefined), new_file] Global variable 'f_name' undefined at the module level
+cosmo.py:103: [W0702(bare-except), new_file] No exception type(s) specified
+cosmo.py:99: [C0103(invalid-name), new_file] Variable name "f" doesn't conform to snake_case naming style
+cosmo.py:95: [W0613(unused-argument), new_file] Unused argument 'e'
+cosmo.py:105: [C0116(missing-function-docstring), run] Missing function or method docstring
+cosmo.py:106: [C0103(invalid-name), run] Constant name "show" doesn't conform to UPPER_CASE naming style
+cosmo.py:106: [W0601(global-variable-undefined), run] Global variable 'show' undefined at the module level
+cosmo.py:107: [W0105(pointless-string-statement), run] String statement has no effect
+cosmo.py:115: [W0718(broad-exception-caught), run] Catching too general exception Exception
+cosmo.py:113: [C0209(consider-using-f-string), run] Formatting a regular string which could be a f-string
+cosmo.py:115: [C0103(invalid-name), run] Variable name "e" doesn't conform to snake_case naming style
+cosmo.py:105: [W0613(unused-argument), run] Unused argument 'event'
+cosmo.py:120: [C0116(missing-function-docstring), run_html] Missing function or method docstring
+cosmo.py:124: [C0209(consider-using-f-string), run_html] Formatting a regular string which could be a f-string
+cosmo.py:126: [C0116(missing-function-docstring), run_js] Missing function or method docstring
+cosmo.py:126: [C0103(invalid-name), run_js] Argument name "e" doesn't conform to snake_case naming style
+cosmo.py:130: [W0621(redefined-outer-name), run_js] Redefining name 'show' from outer scope (line 109)
+cosmo.py:134: [W0718(broad-exception-caught), run_js] Catching too general exception Exception
+cosmo.py:129: [C0209(consider-using-f-string), run_js] Formatting a regular string which could be a f-string
+cosmo.py:134: [R1704(redefined-argument-from-local), run_js] Redefining argument with the local name 'e'
+cosmo.py:137: [C0116(missing-function-docstring), bright] Missing function or method docstring
+cosmo.py:151: [W0621(redefined-outer-name), bright] Redefining name 'f' from outer scope (line 264)
+cosmo.py:141: [W0702(bare-except), bright] No exception type(s) specified
+cosmo.py:151: [C0209(consider-using-f-string), bright] Formatting a regular string which could be a f-string
+cosmo.py:151: [C0103(invalid-name), bright] Variable name "f" doesn't conform to snake_case naming style
+cosmo.py:154: [C0116(missing-function-docstring), black] Missing function or method docstring
+cosmo.py:166: [W0621(redefined-outer-name), black] Redefining name 'f' from outer scope (line 264)
+cosmo.py:157: [W0702(bare-except), black] No exception type(s) specified
+cosmo.py:166: [C0209(consider-using-f-string), black] Formatting a regular string which could be a f-string
+cosmo.py:166: [C0103(invalid-name), black] Variable name "f" doesn't conform to snake_case naming style
+cosmo.py:169: [C0116(missing-function-docstring), Orignal] Missing function or method docstring
+cosmo.py:169: [C0103(invalid-name), Orignal] Function name "Orignal" doesn't conform to snake_case naming style
+cosmo.py:186: [W0621(redefined-outer-name), Orignal] Redefining name 'f' from outer scope (line 264)
+cosmo.py:172: [W0702(bare-except), Orignal] No exception type(s) specified
+cosmo.py:186: [C0209(consider-using-f-string), Orignal] Formatting a regular string which could be a f-string
+cosmo.py:186: [C0103(invalid-name), Orignal] Variable name "f" doesn't conform to snake_case naming style
+cosmo.py:190: [C0116(missing-function-docstring), about_page] Missing function or method docstring
+cosmo.py:199: [W0212(protected-access), about_page] Access to a protected member _show of a client class
+cosmo.py:200: [C0116(missing-function-docstring), help_page] Missing function or method docstring
+cosmo.py:205: [W0105(pointless-string-statement), ] String statement has no effect
+cosmo.py:240: [W0105(pointless-string-statement), ] String statement has no effect
+cosmo.py:252: [W0105(pointless-string-statement), ] String statement has no effect
+cosmo.py:272: [W0702(bare-except), ] No exception type(s) specified
+cosmo.py:286: [W0702(bare-except), ] No exception type(s) specified
+cosmo.py:289: [W0105(pointless-string-statement), ] String statement has no effect
+cosmo.py:5: [C0411(wrong-import-order), ] standard import "from tkinter import ttk, filedialog as fd, messagebox as msg" should be placed before "from Fileop import File"
+cosmo.py:7: [C0411(wrong-import-order), ] standard import "import sys, os, re, threading, json" should be placed before "from Fileop import File"
+cosmo.py:7: [C0411(wrong-import-order), ] standard import "import sys, os, re, threading, json" should be placed before "from Fileop import File"
+cosmo.py:7: [C0411(wrong-import-order), ] standard import "import sys, os, re, threading, json" should be placed before "from Fileop import File"
+cosmo.py:7: [C0411(wrong-import-order), ] standard import "import sys, os, re, threading, json" should be placed before "from Fileop import File"
+cosmo.py:7: [C0411(wrong-import-order), ] standard import "import sys, os, re, threading, json" should be placed before "from Fileop import File"
+cosmo.py:9: [C0411(wrong-import-order), ] third party import "from PIL import Image, ImageTk" should be placed before "from Fileop import File"
+cosmo.py:10: [C0411(wrong-import-order), ] standard import "import subprocess as subp" should be placed before "from PIL import Image, ImageTk"
+cosmo.py:11: [C0411(wrong-import-order), ] standard import "import argparse" should be placed before "from PIL import Image, ImageTk"
+cosmo.py:3: [W0611(unused-import), ] Unused File imported from Fileop
+cosmo.py:5: [W0611(unused-import), ] Unused ttk imported from tkinter
+cosmo.py:8: [W0611(unused-import), ] Unused _text imported from _entry
+cosmo.py:2: [W0614(unused-wildcard-import), ] Unused import(s) collections, enum, types, TclError, wantobjects, TkVersion, TclVersion, READABLE, WRITABLE, EXCEPTION, EventType, Event, NoDefaultRoot, Variable, StringVar, IntVar, DoubleVar, BooleanVar, mainloop, getint, getdouble, getboolean, Misc, CallWrapper, XView, YView, Wm, Tcl, Pack, Place, Grid, BaseWidget, Widget, Toplevel, Button, Canvas, Checkbutton, Entry, Listbox, Menubutton, Message, Radiobutton, Scale, Scrollbar, Text, OptionMenu, PhotoImage, BitmapImage, image_names, image_types, Spinbox, LabelFrame, NO, FALSE, OFF, YES, TRUE, ON, N, S, W, E, NW, SW, NE, SE, NS, EW, NSEW, CENTER, NONE, X, Y, LEFT, TOP, RIGHT, BOTTOM, RAISED, SUNKEN, FLAT, RIDGE, GROOVE, SOLID, HORIZONTAL, NUMERIC, CHAR, WORD, BASELINE, INSIDE, OUTSIDE, SEL, SEL_FIRST, SEL_LAST, CURRENT, ANCHOR, ALL, NORMAL, DISABLED, ACTIVE, HIDDEN, CASCADE, CHECKBUTTON, COMMAND, RADIOBUTTON, SEPARATOR, SINGLE, BROWSE, MULTIPLE, EXTENDED, DOTBOX, UNDERLINE, PIESLICE, CHORD, ARC, FIRST, LAST, BUTT, PROJECTING, ROUND, BEVEL, MITER, MOVETO, SCROLL, UNITS and PAGES from wildcard import of tkinter
+cosmo.py:4: [W0614(unused-wildcard-import), ] Unused import(s) json_file, load, style, about, root_config, author, email, style_on_event, abg, afg, enter_color, leave_color, icon, color_ch and apply_ch from wildcard import of config_tk
+
+
+Report
+======
+231 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |14     |14         |=          |35.71       |14.29    |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+294 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |242    |82.31 |242      |=          |
++----------+-------+------+---------+-----------+
+|docstring |8      |2.72  |8        |=          |
++----------+-------+------+---------+-----------+
+|comment   |3      |1.02  |3        |=          |
++----------+-------+------+---------+-----------+
+|empty     |41     |13.95 |41       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |65     |65       |65         |
++-----------+-------+---------+-----------+
+|refactor   |1      |1        |1          |
++-----------+-------+---------+-----------+
+|warning    |201    |201      |201        |
++-----------+-------+---------+-----------+
+|error      |1      |1        |1          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++------------------------------+------------+
+|message id                    |occurrences |
++==============================+============+
+|bad-indentation               |154         |
++------------------------------+------------+
+|invalid-name                  |18          |
++------------------------------+------------+
+|trailing-whitespace           |17          |
++------------------------------+------------+
+|bare-except                   |10          |
++------------------------------+------------+
+|wrong-import-order            |9           |
++------------------------------+------------+
+|redefined-outer-name          |9           |
++------------------------------+------------+
+|missing-function-docstring    |9           |
++------------------------------+------------+
+|consider-using-f-string       |8           |
++------------------------------+------------+
+|unused-argument               |6           |
++------------------------------+------------+
+|pointless-string-statement    |5           |
++------------------------------+------------+
+|global-variable-undefined     |4           |
++------------------------------+------------+
+|unused-import                 |3           |
++------------------------------+------------+
+|wildcard-import               |2           |
++------------------------------+------------+
+|unused-wildcard-import        |2           |
++------------------------------+------------+
+|unused-variable               |2           |
++------------------------------+------------+
+|broad-exception-caught        |2           |
++------------------------------+------------+
+|unspecified-encoding          |1           |
++------------------------------+------------+
+|trailing-newlines             |1           |
++------------------------------+------------+
+|redefined-argument-from-local |1           |
++------------------------------+------------+
+|protected-access              |1           |
++------------------------------+------------+
+|multiple-imports              |1           |
++------------------------------+------------+
+|missing-module-docstring      |1           |
++------------------------------+------------+
+|line-too-long                 |1           |
++------------------------------+------------+
+|import-error                  |1           |
++------------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

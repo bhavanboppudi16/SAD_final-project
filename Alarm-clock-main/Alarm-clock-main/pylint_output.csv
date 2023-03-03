@@ -1,0 +1,124 @@
+************* Module Alarm_clock
+Alarm_clock.py:18: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+Alarm_clock.py:19: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+Alarm_clock.py:23: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+Alarm_clock.py:25: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+Alarm_clock.py:28: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+Alarm_clock.py:31: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+Alarm_clock.py:32: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+Alarm_clock.py:35: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+Alarm_clock.py:36: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+Alarm_clock.py:38: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+Alarm_clock.py:42: [C0325(superfluous-parens), ] Unnecessary parens after '=' keyword
+Alarm_clock.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+Alarm_clock.py:1: [C0103(invalid-name), ] Module name "Alarm_clock" doesn't conform to snake_case naming style
+Alarm_clock.py:6: [W0622(redefined-builtin), ] Redefining built-in 'enumerate'
+Alarm_clock.py:2: [W0401(wildcard-import), ] Wildcard import tkinter
+Alarm_clock.py:6: [W0401(wildcard-import), ] Wildcard import threading
+Alarm_clock.py:17: [C0116(missing-function-docstring), Threading] Missing function or method docstring
+Alarm_clock.py:17: [C0103(invalid-name), Threading] Function name "Threading" doesn't conform to snake_case naming style
+Alarm_clock.py:18: [C0103(invalid-name), Threading] Variable name "t1" doesn't conform to snake_case naming style
+Alarm_clock.py:21: [C0116(missing-function-docstring), alarm] Missing function or method docstring
+Alarm_clock.py:2: [W0614(unused-wildcard-import), ] Unused import(s) collections, enum, sys, types, TclError, re, wantobjects, TkVersion, TclVersion, READABLE, WRITABLE, EXCEPTION, EventType, Event, NoDefaultRoot, Variable, IntVar, DoubleVar, BooleanVar, mainloop, getint, getdouble, getboolean, Misc, CallWrapper, XView, YView, Wm, Tcl, Pack, Place, Grid, BaseWidget, Widget, Toplevel, Canvas, Checkbutton, Entry, Listbox, Menu, Menubutton, Message, Radiobutton, Scale, Scrollbar, Text, Image, PhotoImage, BitmapImage, image_names, image_types, Spinbox, LabelFrame, PanedWindow, NO, FALSE, OFF, YES, TRUE, ON, N, S, W, E, NW, SW, NE, SE, NS, EW, NSEW, CENTER, NONE, X, Y, BOTH, TOP, RIGHT, BOTTOM, RAISED, SUNKEN, FLAT, RIDGE, GROOVE, SOLID, HORIZONTAL, VERTICAL, NUMERIC, CHAR, WORD, BASELINE, INSIDE, OUTSIDE, SEL, SEL_FIRST, SEL_LAST, END, INSERT, CURRENT, ANCHOR, ALL, NORMAL, DISABLED, ACTIVE, HIDDEN, CASCADE, CHECKBUTTON, COMMAND, RADIOBUTTON, SEPARATOR, SINGLE, BROWSE, MULTIPLE, EXTENDED, DOTBOX, UNDERLINE, PIESLICE, CHORD, ARC, FIRST, LAST, BUTT, PROJECTING, ROUND, BEVEL, MITER, MOVETO, SCROLL, UNITS and PAGES from wildcard import of tkinter
+Alarm_clock.py:6: [W0614(unused-wildcard-import), ] Unused import(s) functools, get_ident, get_native_id, ThreadError, TIMEOUT_MAX, setprofile, getprofile, settrace, gettrace, Lock, RLock, Condition, Semaphore, BoundedSemaphore, Barrier, BrokenBarrierError, ExceptHookArgs, excepthook, Timer, current_thread, currentThread, active_count, activeCount, enumerate, main_thread, WeakSet, namedtuple, stack_size, local and lock from wildcard import of threading
+
+
+Report
+======
+40 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |2      |2          |=          |0.00        |50.00    |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+90 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |42     |46.67 |42       |=          |
++----------+-------+------+---------+-----------+
+|docstring |16     |17.78 |16       |=          |
++----------+-------+------+---------+-----------+
+|comment   |12     |13.33 |12       |=          |
++----------+-------+------+---------+-----------+
+|empty     |20     |22.22 |20       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |7      |7        |7          |
++-----------+-------+---------+-----------+
+|refactor   |0      |0        |0          |
++-----------+-------+---------+-----------+
+|warning    |15     |15       |15         |
++-----------+-------+---------+-----------+
+|error      |0      |0        |0          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|bad-indentation            |10          |
++---------------------------+------------+
+|invalid-name               |3           |
++---------------------------+------------+
+|wildcard-import            |2           |
++---------------------------+------------+
+|unused-wildcard-import     |2           |
++---------------------------+------------+
+|missing-function-docstring |2           |
++---------------------------+------------+
+|superfluous-parens         |1           |
++---------------------------+------------+
+|redefined-builtin          |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 4.50/10 (previous run: 4.50/10, +0.00)
+

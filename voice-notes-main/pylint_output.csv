@@ -1,0 +1,168 @@
+************* Module main
+main.py:13: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:14: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:15: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:16: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:17: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:18: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:19: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:22: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 4
+main.py:23: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 4
+main.py:24: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 4
+main.py:25: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 4
+main.py:28: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+main.py:29: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:30: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:31: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:32: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:33: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:36: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:39: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:40: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:40: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+main.py:41: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:42: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:43: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:44: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:45: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:46: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:58: [C0304(missing-final-newline), ] Final newline missing
+main.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+main.py:2: [W0401(wildcard-import), ] Wildcard import tkinter
+main.py:5: [E0401(import-error), ] Unable to import 'pyttsx3'
+main.py:6: [E0401(import-error), ] Unable to import 'speech_recognition'
+main.py:12: [C0116(missing-function-docstring), listen] Missing function or method docstring
+main.py:13: [W0621(redefined-outer-name), listen] Redefining name 't' from outer scope (line 48)
+main.py:13: [C0103(invalid-name), listen] Variable name "t" doesn't conform to snake_case naming style
+main.py:18: [W0702(bare-except), listen] No exception type(s) specified
+main.py:21: [C0116(missing-function-docstring), ssk] Missing function or method docstring
+main.py:27: [C0116(missing-function-docstring), write_text] Missing function or method docstring
+main.py:35: [C0116(missing-function-docstring), speak] Missing function or method docstring
+main.py:38: [C0116(missing-function-docstring), save] Missing function or method docstring
+main.py:39: [C0103(invalid-name), save] Variable name "p" doesn't conform to snake_case naming style
+main.py:44: [R1732(consider-using-with), save] Consider using 'with' for resource-allocating operations
+main.py:44: [W1514(unspecified-encoding), save] Using open without explicitly specifying an encoding
+main.py:7: [C0411(wrong-import-order), ] standard import "import os" should be placed before "import pyttsx3"
+main.py:8: [C0411(wrong-import-order), ] standard import "import shutil" should be placed before "import pyttsx3"
+main.py:9: [C0411(wrong-import-order), ] standard import "import datetime" should be placed before "import pyttsx3"
+main.py:10: [C0411(wrong-import-order), ] standard import "import socket" should be placed before "import pyttsx3"
+main.py:1: [W0611(unused-import), ] Unused sleep imported from time
+main.py:8: [W0611(unused-import), ] Unused import shutil
+main.py:9: [W0611(unused-import), ] Unused import datetime
+main.py:2: [W0614(unused-wildcard-import), ] Unused import(s) collections, enum, sys, types, TclError, re, wantobjects, TkVersion, TclVersion, READABLE, WRITABLE, EXCEPTION, EventType, Event, NoDefaultRoot, Variable, StringVar, IntVar, DoubleVar, BooleanVar, mainloop, getint, getdouble, getboolean, Misc, CallWrapper, XView, YView, Wm, Tcl, Pack, Place, Grid, BaseWidget, Widget, Toplevel, Canvas, Checkbutton, Entry, Frame, Listbox, Menu, Menubutton, Message, Radiobutton, Scale, Scrollbar, OptionMenu, Image, PhotoImage, BitmapImage, image_names, image_types, Spinbox, LabelFrame, PanedWindow, NO, FALSE, OFF, YES, TRUE, ON, N, S, W, E, NW, SW, NE, SE, NS, EW, NSEW, CENTER, NONE, X, Y, BOTH, LEFT, TOP, RIGHT, BOTTOM, RAISED, SUNKEN, FLAT, RIDGE, GROOVE, SOLID, HORIZONTAL, VERTICAL, NUMERIC, CHAR, WORD, BASELINE, INSIDE, OUTSIDE, SEL, SEL_FIRST, SEL_LAST, INSERT, CURRENT, ANCHOR, ALL, NORMAL, DISABLED, ACTIVE, HIDDEN, CASCADE, CHECKBUTTON, COMMAND, RADIOBUTTON, SEPARATOR, SINGLE, BROWSE, MULTIPLE, EXTENDED, DOTBOX, UNDERLINE, PIESLICE, CHORD, ARC, FIRST, LAST, BUTT, PROJECTING, ROUND, BEVEL, MITER, MOVETO, SCROLL, UNITS and PAGES from wildcard import of tkinter
+
+
+Report
+======
+50 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |2          |-2.00      |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |6          |-6.00      |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |5      |6          |-1.00      |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+60 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |53     |88.33 |227      |-174.00    |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |0      |0.00  |67       |-67.00     |
++----------+-------+------+---------+-----------+
+|empty     |7      |11.67 |60       |-53.00     |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |15     |126      |126        |
++-----------+-------+---------+-----------+
+|refactor   |1      |6        |6          |
++-----------+-------+---------+-----------+
+|warning    |34     |227      |227        |
++-----------+-------+---------+-----------+
+|error      |2      |19       |19         |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|bad-indentation            |26          |
++---------------------------+------------+
+|missing-function-docstring |5           |
++---------------------------+------------+
+|wrong-import-order         |4           |
++---------------------------+------------+
+|unused-import              |3           |
++---------------------------+------------+
+|superfluous-parens         |2           |
++---------------------------+------------+
+|invalid-name               |2           |
++---------------------------+------------+
+|import-error               |2           |
++---------------------------+------------+
+|wildcard-import            |1           |
++---------------------------+------------+
+|unused-wildcard-import     |1           |
++---------------------------+------------+
+|unspecified-encoding       |1           |
++---------------------------+------------+
+|redefined-outer-name       |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|missing-final-newline      |1           |
++---------------------------+------------+
+|consider-using-with        |1           |
++---------------------------+------------+
+|bare-except                |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

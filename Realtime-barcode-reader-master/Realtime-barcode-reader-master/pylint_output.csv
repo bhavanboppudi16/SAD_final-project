@@ -1,0 +1,106 @@
+************* Module app
+app.py:27: [C0304(missing-final-newline), ] Final newline missing
+app.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+app.py:1: [E0401(import-error), ] Unable to import 'cv2'
+app.py:2: [E0401(import-error), ] Unable to import 'pyzbar'
+app.py:4: [C0116(missing-function-docstring), read_barcodes] Missing function or method docstring
+app.py:7: [C0103(invalid-name), read_barcodes] Variable name "x" doesn't conform to snake_case naming style
+app.py:7: [C0103(invalid-name), read_barcodes] Variable name "y" doesn't conform to snake_case naming style
+app.py:7: [C0103(invalid-name), read_barcodes] Variable name "w" doesn't conform to snake_case naming style
+app.py:7: [C0103(invalid-name), read_barcodes] Variable name "h" doesn't conform to snake_case naming style
+app.py:13: [C0116(missing-function-docstring), main] Missing function or method docstring
+
+
+Report
+======
+23 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |1          |-1.00      |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |2          |-2.00      |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |2      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+29 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |25     |86.21 |35       |-10.00     |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |0      |0.00  |4        |-4.00      |
++----------+-------+------+---------+-----------+
+|empty     |4      |13.79 |10       |-6.00      |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |8      |11       |11         |
++-----------+-------+---------+-----------+
+|refactor   |0      |1        |1          |
++-----------+-------+---------+-----------+
+|warning    |0      |6        |6          |
++-----------+-------+---------+-----------+
+|error      |2      |2        |2          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|invalid-name               |4           |
++---------------------------+------------+
+|missing-function-docstring |2           |
++---------------------------+------------+
+|import-error               |2           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|missing-final-newline      |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 2.17/10 (previous run: 1.52/10, +0.66)
+

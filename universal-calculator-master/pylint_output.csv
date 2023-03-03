@@ -1,0 +1,271 @@
+************* Module univcalc
+univcalc.py:20: [C0301(line-too-long), ] Line too long (105/100)
+univcalc.py:203: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:212: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:221: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:227: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:231: [C0301(line-too-long), ] Line too long (111/100)
+univcalc.py:234: [C0301(line-too-long), ] Line too long (111/100)
+univcalc.py:235: [C0301(line-too-long), ] Line too long (120/100)
+univcalc.py:238: [C0301(line-too-long), ] Line too long (110/100)
+univcalc.py:241: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:245: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:249: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:253: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:257: [C0301(line-too-long), ] Line too long (107/100)
+univcalc.py:261: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:264: [C0301(line-too-long), ] Line too long (110/100)
+univcalc.py:267: [C0301(line-too-long), ] Line too long (109/100)
+univcalc.py:270: [C0301(line-too-long), ] Line too long (105/100)
+univcalc.py:278: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:281: [C0301(line-too-long), ] Line too long (108/100)
+univcalc.py:284: [C0301(line-too-long), ] Line too long (108/100)
+univcalc.py:287: [C0301(line-too-long), ] Line too long (108/100)
+univcalc.py:290: [C0301(line-too-long), ] Line too long (104/100)
+univcalc.py:294: [C0301(line-too-long), ] Line too long (108/100)
+univcalc.py:297: [C0301(line-too-long), ] Line too long (110/100)
+univcalc.py:300: [C0301(line-too-long), ] Line too long (110/100)
+univcalc.py:303: [C0301(line-too-long), ] Line too long (110/100)
+univcalc.py:306: [C0301(line-too-long), ] Line too long (105/100)
+univcalc.py:310: [C0301(line-too-long), ] Line too long (108/100)
+univcalc.py:313: [C0301(line-too-long), ] Line too long (108/100)
+univcalc.py:316: [C0301(line-too-long), ] Line too long (108/100)
+univcalc.py:320: [C0301(line-too-long), ] Line too long (104/100)
+univcalc.py:323: [C0301(line-too-long), ] Line too long (105/100)
+univcalc.py:327: [C0301(line-too-long), ] Line too long (111/100)
+univcalc.py:330: [C0301(line-too-long), ] Line too long (110/100)
+univcalc.py:333: [C0301(line-too-long), ] Line too long (112/100)
+univcalc.py:336: [C0301(line-too-long), ] Line too long (112/100)
+univcalc.py:339: [C0301(line-too-long), ] Line too long (105/100)
+univcalc.py:343: [C0301(line-too-long), ] Line too long (110/100)
+univcalc.py:346: [C0301(line-too-long), ] Line too long (108/100)
+univcalc.py:349: [C0301(line-too-long), ] Line too long (113/100)
+univcalc.py:352: [C0301(line-too-long), ] Line too long (113/100)
+univcalc.py:360: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:362: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:390: [C0301(line-too-long), ] Line too long (106/100)
+univcalc.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+univcalc.py:5: [W0401(wildcard-import), ] Wildcard import tkinter
+univcalc.py:24: [C0115(missing-class-docstring), Calc] Missing class docstring
+univcalc.py:30: [C0103(invalid-name), Calc.__init__] Attribute name "op" doesn't conform to snake_case naming style
+univcalc.py:33: [C0116(missing-function-docstring), Calc.numberEnter] Missing function or method docstring
+univcalc.py:33: [C0103(invalid-name), Calc.numberEnter] Method name "numberEnter" doesn't conform to snake_case naming style
+univcalc.py:47: [C0116(missing-function-docstring), Calc.sum_of_total] Missing function or method docstring
+univcalc.py:50: [C0121(singleton-comparison), Calc.sum_of_total] Comparison 'self.check_sum == True' should be 'self.check_sum is True' if checking for the singleton value True, or 'self.check_sum' if testing for truthiness
+univcalc.py:55: [C0116(missing-function-docstring), Calc.display] Missing function or method docstring
+univcalc.py:59: [C0116(missing-function-docstring), Calc.valid_function] Missing function or method docstring
+univcalc.py:74: [C0116(missing-function-docstring), Calc.operation] Missing function or method docstring
+univcalc.py:74: [C0103(invalid-name), Calc.operation] Argument name "op" doesn't conform to snake_case naming style
+univcalc.py:85: [C0116(missing-function-docstring), Calc.Clear_Entry] Missing function or method docstring
+univcalc.py:85: [C0103(invalid-name), Calc.Clear_Entry] Method name "Clear_Entry" doesn't conform to snake_case naming style
+univcalc.py:91: [C0116(missing-function-docstring), Calc.All_Clear_Entry] Missing function or method docstring
+univcalc.py:91: [C0103(invalid-name), Calc.All_Clear_Entry] Method name "All_Clear_Entry" doesn't conform to snake_case naming style
+univcalc.py:95: [C0116(missing-function-docstring), Calc.pi] Missing function or method docstring
+univcalc.py:95: [C0103(invalid-name), Calc.pi] Method name "pi" doesn't conform to snake_case naming style
+univcalc.py:100: [C0116(missing-function-docstring), Calc.tau] Missing function or method docstring
+univcalc.py:105: [C0116(missing-function-docstring), Calc.e] Missing function or method docstring
+univcalc.py:105: [C0103(invalid-name), Calc.e] Method name "e" doesn't conform to snake_case naming style
+univcalc.py:110: [C0116(missing-function-docstring), Calc.mathPM] Missing function or method docstring
+univcalc.py:110: [C0103(invalid-name), Calc.mathPM] Method name "mathPM" doesn't conform to snake_case naming style
+univcalc.py:115: [C0116(missing-function-docstring), Calc.squared] Missing function or method docstring
+univcalc.py:120: [C0116(missing-function-docstring), Calc.cos] Missing function or method docstring
+univcalc.py:125: [C0116(missing-function-docstring), Calc.cosh] Missing function or method docstring
+univcalc.py:130: [C0116(missing-function-docstring), Calc.tan] Missing function or method docstring
+univcalc.py:135: [C0116(missing-function-docstring), Calc.tanh] Missing function or method docstring
+univcalc.py:140: [C0116(missing-function-docstring), Calc.sin] Missing function or method docstring
+univcalc.py:145: [C0116(missing-function-docstring), Calc.sinh] Missing function or method docstring
+univcalc.py:150: [C0116(missing-function-docstring), Calc.log] Missing function or method docstring
+univcalc.py:155: [C0116(missing-function-docstring), Calc.exp] Missing function or method docstring
+univcalc.py:160: [C0116(missing-function-docstring), Calc.acosh] Missing function or method docstring
+univcalc.py:165: [C0116(missing-function-docstring), Calc.asinh] Missing function or method docstring
+univcalc.py:170: [C0116(missing-function-docstring), Calc.expm1] Missing function or method docstring
+univcalc.py:175: [C0116(missing-function-docstring), Calc.lgamma] Missing function or method docstring
+univcalc.py:180: [C0116(missing-function-docstring), Calc.degrees] Missing function or method docstring
+univcalc.py:185: [C0116(missing-function-docstring), Calc.log2] Missing function or method docstring
+univcalc.py:190: [C0116(missing-function-docstring), Calc.log10] Missing function or method docstring
+univcalc.py:195: [C0116(missing-function-docstring), Calc.log1p] Missing function or method docstring
+univcalc.py:24: [R0904(too-many-public-methods), Calc] Too many public methods (28/20)
+univcalc.py:216: [C0103(invalid-name), ] Constant name "numberpad" doesn't conform to UPPER_CASE naming style
+univcalc.py:231: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:231: [C0103(invalid-name), ] Constant name "btnClear" doesn't conform to UPPER_CASE naming style
+univcalc.py:234: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:234: [C0103(invalid-name), ] Constant name "btnAllClear" doesn't conform to UPPER_CASE naming style
+univcalc.py:238: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:238: [C0103(invalid-name), ] Constant name "btnsq" doesn't conform to UPPER_CASE naming style
+univcalc.py:241: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:241: [C0103(invalid-name), ] Constant name "btnAdd" doesn't conform to UPPER_CASE naming style
+univcalc.py:245: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:245: [C0103(invalid-name), ] Constant name "btnSub" doesn't conform to UPPER_CASE naming style
+univcalc.py:249: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:249: [C0103(invalid-name), ] Constant name "btnMul" doesn't conform to UPPER_CASE naming style
+univcalc.py:253: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:253: [C0103(invalid-name), ] Constant name "btnDiv" doesn't conform to UPPER_CASE naming style
+univcalc.py:257: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:257: [C0103(invalid-name), ] Constant name "btnZero" doesn't conform to UPPER_CASE naming style
+univcalc.py:261: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:261: [C0103(invalid-name), ] Constant name "btnDot" doesn't conform to UPPER_CASE naming style
+univcalc.py:264: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:264: [C0103(invalid-name), ] Constant name "btnPM" doesn't conform to UPPER_CASE naming style
+univcalc.py:267: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:267: [C0103(invalid-name), ] Constant name "btnEquals" doesn't conform to UPPER_CASE naming style
+univcalc.py:278: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:278: [C0103(invalid-name), ] Constant name "btnPi" doesn't conform to UPPER_CASE naming style
+univcalc.py:281: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:281: [C0103(invalid-name), ] Constant name "btnCos" doesn't conform to UPPER_CASE naming style
+univcalc.py:284: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:284: [C0103(invalid-name), ] Constant name "btntan" doesn't conform to UPPER_CASE naming style
+univcalc.py:287: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:287: [C0103(invalid-name), ] Constant name "btnsin" doesn't conform to UPPER_CASE naming style
+univcalc.py:294: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:294: [C0103(invalid-name), ] Constant name "btn2Pi" doesn't conform to UPPER_CASE naming style
+univcalc.py:297: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:297: [C0103(invalid-name), ] Constant name "btnCosh" doesn't conform to UPPER_CASE naming style
+univcalc.py:300: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:300: [C0103(invalid-name), ] Constant name "btntanh" doesn't conform to UPPER_CASE naming style
+univcalc.py:303: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:303: [C0103(invalid-name), ] Constant name "btnsinh" doesn't conform to UPPER_CASE naming style
+univcalc.py:310: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:310: [C0103(invalid-name), ] Constant name "btnlog" doesn't conform to UPPER_CASE naming style
+univcalc.py:313: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:313: [C0103(invalid-name), ] Constant name "btnExp" doesn't conform to UPPER_CASE naming style
+univcalc.py:316: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:316: [C0103(invalid-name), ] Constant name "btnMod" doesn't conform to UPPER_CASE naming style
+univcalc.py:320: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:320: [C0103(invalid-name), ] Constant name "btnE" doesn't conform to UPPER_CASE naming style
+univcalc.py:327: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:327: [C0103(invalid-name), ] Constant name "btnlog10" doesn't conform to UPPER_CASE naming style
+univcalc.py:330: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:330: [C0103(invalid-name), ] Constant name "btncos" doesn't conform to UPPER_CASE naming style
+univcalc.py:343: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:343: [C0103(invalid-name), ] Constant name "btnlog2" doesn't conform to UPPER_CASE naming style
+univcalc.py:346: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+univcalc.py:346: [C0103(invalid-name), ] Constant name "btndeg" doesn't conform to UPPER_CASE naming style
+univcalc.py:366: [C0116(missing-function-docstring), iExit] Missing function or method docstring
+univcalc.py:366: [C0103(invalid-name), iExit] Function name "iExit" doesn't conform to snake_case naming style
+univcalc.py:367: [W0621(redefined-outer-name), iExit] Redefining name 'iExit' from outer scope (line 366)
+univcalc.py:367: [C0103(invalid-name), iExit] Variable name "iExit" doesn't conform to snake_case naming style
+univcalc.py:373: [C0116(missing-function-docstring), Scientific] Missing function or method docstring
+univcalc.py:373: [C0103(invalid-name), Scientific] Function name "Scientific" doesn't conform to snake_case naming style
+univcalc.py:378: [C0116(missing-function-docstring), Standard] Missing function or method docstring
+univcalc.py:378: [C0103(invalid-name), Standard] Function name "Standard" doesn't conform to snake_case naming style
+univcalc.py:383: [C0116(missing-function-docstring), LWVConverter] Missing function or method docstring
+univcalc.py:383: [C0103(invalid-name), LWVConverter] Function name "LWVConverter" doesn't conform to snake_case naming style
+univcalc.py:387: [C0116(missing-function-docstring), BaseConverter] Missing function or method docstring
+univcalc.py:387: [C0103(invalid-name), BaseConverter] Function name "BaseConverter" doesn't conform to snake_case naming style
+univcalc.py:5: [W0614(unused-wildcard-import), ] Unused import(s) collections, enum, sys, types, TclError, re, wantobjects, TkVersion, TclVersion, READABLE, WRITABLE, EXCEPTION, EventType, Event, NoDefaultRoot, Variable, StringVar, IntVar, DoubleVar, BooleanVar, mainloop, getint, getdouble, getboolean, Misc, CallWrapper, XView, YView, Wm, Tcl, Pack, Place, Grid, BaseWidget, Widget, Toplevel, Canvas, Checkbutton, Listbox, Menubutton, Message, Radiobutton, Scale, Scrollbar, Text, OptionMenu, Image, PhotoImage, BitmapImage, image_names, image_types, Spinbox, LabelFrame, PanedWindow, NO, FALSE, OFF, YES, TRUE, ON, N, S, W, E, NW, SW, NE, SE, NS, EW, NSEW, NONE, X, Y, BOTH, LEFT, TOP, BOTTOM, RAISED, SUNKEN, FLAT, RIDGE, GROOVE, SOLID, HORIZONTAL, VERTICAL, NUMERIC, CHAR, WORD, BASELINE, INSIDE, OUTSIDE, SEL, SEL_FIRST, SEL_LAST, INSERT, CURRENT, ANCHOR, ALL, NORMAL, DISABLED, ACTIVE, HIDDEN, CASCADE, CHECKBUTTON, COMMAND, RADIOBUTTON, SEPARATOR, SINGLE, BROWSE, MULTIPLE, EXTENDED, DOTBOX, UNDERLINE, PIESLICE, CHORD, ARC, FIRST, LAST, BUTT, PROJECTING, ROUND, BEVEL, MITER, MOVETO, SCROLL, UNITS and PAGES from wildcard import of tkinter
+
+
+Report
+======
+231 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|method   |29     |29         |=          |3.45        |20.69    |
++---------+-------+-----------+-----------+------------+---------+
+|function |5      |5          |=          |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+External dependencies
+---------------------
+::
+
+    lwvconverter (univcalc)
+    progconv (univcalc)
+
+
+
+418 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |272    |65.07 |272      |=          |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |36     |8.61  |36       |=          |
++----------+-------+------+---------+-----------+
+|empty     |110    |26.32 |110      |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |123    |123      |123        |
++-----------+-------+---------+-----------+
+|refactor   |1      |1        |1          |
++-----------+-------+---------+-----------+
+|warning    |3      |3        |3          |
++-----------+-------+---------+-----------+
+|error      |27     |27       |27         |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|line-too-long              |45          |
++---------------------------+------------+
+|invalid-name               |42          |
++---------------------------+------------+
+|missing-function-docstring |33          |
++---------------------------+------------+
+|assignment-from-no-return  |27          |
++---------------------------+------------+
+|wildcard-import            |1           |
++---------------------------+------------+
+|unused-wildcard-import     |1           |
++---------------------------+------------+
+|too-many-public-methods    |1           |
++---------------------------+------------+
+|singleton-comparison       |1           |
++---------------------------+------------+
+|redefined-outer-name       |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|missing-class-docstring    |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

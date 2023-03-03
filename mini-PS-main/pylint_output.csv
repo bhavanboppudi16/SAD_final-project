@@ -1,0 +1,134 @@
+************* Module mini-PS
+mini-PS.py:127: [C0303(trailing-whitespace), ] Trailing whitespace
+mini-PS.py:151: [C0301(line-too-long), ] Line too long (102/100)
+mini-PS.py:29: [W1401(anomalous-backslash-in-string), ] Anomalous backslash in string: '\m'. String constant might be missing an r prefix.
+mini-PS.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+mini-PS.py:1: [C0103(invalid-name), ] Module name "mini-PS" doesn't conform to snake_case naming style
+mini-PS.py:3: [E0401(import-error), ] Unable to import 'PyQt5.QtGui'
+mini-PS.py:3: [W0401(wildcard-import), ] Wildcard import PyQt5.QtGui
+mini-PS.py:4: [E0401(import-error), ] Unable to import 'PyQt5.QtCore'
+mini-PS.py:4: [W0401(wildcard-import), ] Wildcard import PyQt5.QtCore
+mini-PS.py:5: [E0401(import-error), ] Unable to import 'PyQt5'
+mini-PS.py:20: [C0103(invalid-name), ] Constant name "signin_path" doesn't conform to UPPER_CASE naming style
+mini-PS.py:23: [C0115(missing-class-docstring), ApplicationUI] Missing class docstring
+mini-PS.py:31: [C0103(invalid-name), ApplicationUI.__init__] Attribute name "tabWidgets" doesn't conform to snake_case naming style
+mini-PS.py:26: [R1725(super-with-arguments), ApplicationUI.__init__] Consider using Python 3 style super() without arguments
+mini-PS.py:37: [C0116(missing-function-docstring), ApplicationUI.HandelButtons] Missing function or method docstring
+mini-PS.py:37: [C0103(invalid-name), ApplicationUI.HandelButtons] Method name "HandelButtons" doesn't conform to snake_case naming style
+mini-PS.py:91: [C0116(missing-function-docstring), ApplicationUI.start_ai] Missing function or method docstring
+mini-PS.py:96: [C0116(missing-function-docstring), ApplicationUI.start_fb] Missing function or method docstring
+mini-PS.py:101: [C0116(missing-function-docstring), ApplicationUI.start_sn] Missing function or method docstring
+mini-PS.py:106: [C0116(missing-function-docstring), ApplicationUI.start_xo] Missing function or method docstring
+mini-PS.py:113: [C0116(missing-function-docstring), ApplicationUI.ai_sittings_fn] Missing function or method docstring
+mini-PS.py:118: [C0116(missing-function-docstring), ApplicationUI.fb_sittings_fn] Missing function or method docstring
+mini-PS.py:123: [C0116(missing-function-docstring), ApplicationUI.sn_sittings_fn] Missing function or method docstring
+mini-PS.py:128: [C0116(missing-function-docstring), ApplicationUI.xo_sittings_fn] Missing function or method docstring
+mini-PS.py:135: [C0116(missing-function-docstring), ApplicationUI.open_doc] Missing function or method docstring
+mini-PS.py:139: [C0116(missing-function-docstring), ApplicationUI.visit_github] Missing function or method docstring
+mini-PS.py:143: [C0116(missing-function-docstring), ApplicationUI.get_feedback] Missing function or method docstring
+mini-PS.py:146: [C0116(missing-function-docstring), ApplicationUI.get_backup] Missing function or method docstring
+
+
+Report
+======
+112 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+|class    |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|method   |19     |19         |=          |31.58       |5.26     |
++---------+-------+-----------+-----------+------------+---------+
+|function |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+159 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |114    |71.70 |114      |=          |
++----------+-------+------+---------+-----------+
+|docstring |5      |3.14  |5        |=          |
++----------+-------+------+---------+-----------+
+|comment   |10     |6.29  |10       |=          |
++----------+-------+------+---------+-----------+
+|empty     |30     |18.87 |30       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |21     |21       |21         |
++-----------+-------+---------+-----------+
+|refactor   |1      |1        |1          |
++-----------+-------+---------+-----------+
+|warning    |3      |3        |3          |
++-----------+-------+---------+-----------+
+|error      |3      |3        |3          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++------------------------------+------------+
+|message id                    |occurrences |
++==============================+============+
+|missing-function-docstring    |13          |
++------------------------------+------------+
+|invalid-name                  |4           |
++------------------------------+------------+
+|import-error                  |3           |
++------------------------------+------------+
+|wildcard-import               |2           |
++------------------------------+------------+
+|trailing-whitespace           |1           |
++------------------------------+------------+
+|super-with-arguments          |1           |
++------------------------------+------------+
+|missing-module-docstring      |1           |
++------------------------------+------------+
+|missing-class-docstring       |1           |
++------------------------------+------------+
+|line-too-long                 |1           |
++------------------------------+------------+
+|anomalous-backslash-in-string |1           |
++------------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+

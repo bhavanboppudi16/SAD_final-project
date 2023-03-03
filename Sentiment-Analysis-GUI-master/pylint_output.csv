@@ -1,0 +1,506 @@
+************* Module main
+main.py:16: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:22: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:23: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:42: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:43: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:44: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:45: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:46: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:47: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:49: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:50: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:51: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:53: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:54: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:55: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:57: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:58: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:59: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:61: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:62: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:63: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:65: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:66: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:67: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:68: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:69: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:70: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:71: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:72: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:73: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:74: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:75: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:76: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:77: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:78: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:79: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:80: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:81: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:82: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:84: [C0301(line-too-long), ] Line too long (118/100)
+main.py:84: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:85: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:86: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:87: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:88: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:90: [C0301(line-too-long), ] Line too long (129/100)
+main.py:95: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:96: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:97: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:98: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:99: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:100: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:102: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:103: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:104: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:106: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:107: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:108: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:110: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:111: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:112: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:114: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:115: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:116: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:117: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:119: [C0301(line-too-long), ] Line too long (118/100)
+main.py:119: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:120: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:121: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:123: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:124: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:125: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:125: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:126: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:128: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:129: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:130: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:132: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:133: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:134: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:137: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:138: [C0301(line-too-long), ] Line too long (104/100)
+main.py:138: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:139: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:140: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:142: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:143: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:145: [C0301(line-too-long), ] Line too long (115/100)
+main.py:145: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:146: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:147: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:148: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:149: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:150: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:151: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:152: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:154: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:155: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:156: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:157: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:158: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:159: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:160: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:161: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:162: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:163: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:164: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:165: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:167: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:168: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:169: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:171: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:172: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:173: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:175: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:176: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:177: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:179: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:180: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:181: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:183: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:184: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:185: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:186: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:187: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:188: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:190: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:191: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:192: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:193: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:193: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:194: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:195: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:196: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:197: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:197: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:198: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:199: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:200: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:201: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:202: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:202: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:203: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:204: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:206: [C0301(line-too-long), ] Line too long (137/100)
+main.py:206: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:207: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:208: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:210: [C0301(line-too-long), ] Line too long (139/100)
+main.py:210: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:211: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:212: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:214: [C0301(line-too-long), ] Line too long (133/100)
+main.py:214: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:215: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:216: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:217: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:220: [C0301(line-too-long), ] Line too long (130/100)
+main.py:225: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:226: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:227: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:228: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:229: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:230: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:232: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:233: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:234: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:236: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:237: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:238: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:240: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:241: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:242: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:244: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:245: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:246: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:247: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:249: [C0301(line-too-long), ] Line too long (118/100)
+main.py:249: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:250: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:251: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:253: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:254: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:255: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:255: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:256: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:258: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:259: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:260: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:262: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:263: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:264: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:267: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:268: [C0301(line-too-long), ] Line too long (104/100)
+main.py:268: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:269: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:270: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:272: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:273: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:275: [C0301(line-too-long), ] Line too long (115/100)
+main.py:275: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:276: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:277: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:278: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:279: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:280: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:281: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:282: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:284: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:285: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:286: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:287: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:288: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:289: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:290: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:291: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:292: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:293: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:294: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:295: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:297: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:298: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:299: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:301: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:302: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:303: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:305: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:306: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:307: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:309: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:310: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:311: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:313: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:314: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:315: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:316: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:317: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:318: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:320: [W0311(bad-indentation), ] Bad indentation. Found 3 spaces, expected 12
+main.py:321: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:322: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:323: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:323: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:324: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:325: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:326: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:327: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:327: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:328: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:329: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:330: [W0311(bad-indentation), ] Bad indentation. Found 4 spaces, expected 16
+main.py:331: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:332: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:332: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:333: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:334: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:336: [C0301(line-too-long), ] Line too long (137/100)
+main.py:336: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:337: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:338: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:340: [C0301(line-too-long), ] Line too long (139/100)
+main.py:340: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:341: [W0311(bad-indentation), ] Bad indentation. Found 2 spaces, expected 8
+main.py:342: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:344: [C0301(line-too-long), ] Line too long (142/100)
+main.py:344: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:345: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:346: [W0311(bad-indentation), ] Bad indentation. Found 1 spaces, expected 4
+main.py:347: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:349: [C0301(line-too-long), ] Line too long (129/100)
+main.py:352: [C0304(missing-final-newline), ] Final newline missing
+main.py:132: [W1401(anomalous-backslash-in-string), ] Anomalous backslash in string: '\w'. String constant might be missing an r prefix.
+main.py:132: [W1401(anomalous-backslash-in-string), ] Anomalous backslash in string: '\s'. String constant might be missing an r prefix.
+main.py:262: [W1401(anomalous-backslash-in-string), ] Anomalous backslash in string: '\w'. String constant might be missing an r prefix.
+main.py:262: [W1401(anomalous-backslash-in-string), ] Anomalous backslash in string: '\s'. String constant might be missing an r prefix.
+main.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+main.py:6: [W0622(redefined-builtin), ] Redefining built-in 'complex'
+main.py:1: [E0401(import-error), ] Unable to import 'textblob'
+main.py:2: [W0401(wildcard-import), ] Wildcard import tkinter
+main.py:4: [E0401(import-error), ] Unable to import 'textblob'
+main.py:4: [W0404(reimported), ] Reimport 'TextBlob' (imported line 1)
+main.py:5: [E0401(import-error), ] Unable to import 'nltk'
+main.py:6: [W0401(wildcard-import), ] Wildcard import csv
+main.py:8: [E0401(import-error), ] Unable to import 'pandas'
+main.py:9: [E0401(import-error), ] Unable to import 'gensim'
+main.py:10: [E0401(import-error), ] Unable to import 'seaborn'
+main.py:11: [E0401(import-error), ] Unable to import 'nltk.corpus'
+main.py:12: [E0401(import-error), ] Unable to import 'textblob'
+main.py:12: [W0404(reimported), ] Reimport 'TextBlob' (imported line 1)
+main.py:13: [E0401(import-error), ] Unable to import 'nltk.stem'
+main.py:14: [E0401(import-error), ] Unable to import 'spellchecker'
+main.py:15: [E0401(import-error), ] Unable to import 'textblob'
+main.py:16: [E0401(import-error), ] Unable to import 'PIL'
+main.py:17: [E0401(import-error), ] Unable to import 'gensim.models'
+main.py:18: [E0401(import-error), ] Unable to import 'gensim.scripts.glove2word2vec'
+main.py:19: [E0401(import-error), ] Unable to import 'matplotlib.pyplot'
+main.py:20: [E0401(import-error), ] Unable to import 'chart_studio.plotly'
+main.py:21: [E0401(import-error), ] Unable to import 'plotly.tools'
+main.py:22: [W0404(reimported), ] Reimport 'matplotlib.pyplot' (imported line 19)
+main.py:22: [E0401(import-error), ] Unable to import 'matplotlib.pyplot'
+main.py:24: [E0401(import-error), ] Unable to import 'cv2'
+main.py:41: [C0116(missing-function-docstring), FirstWindow] Missing function or method docstring
+main.py:41: [C0103(invalid-name), FirstWindow] Function name "FirstWindow" doesn't conform to snake_case naming style
+main.py:49: [W0621(redefined-outer-name), FirstWindow] Redefining name 'label1' from outer scope (line 33)
+main.py:84: [W0621(redefined-outer-name), FirstWindow] Redefining name 'button1' from outer scope (line 90)
+main.py:62: [C0103(invalid-name), FirstWindow.disp] Constant name "n" doesn't conform to UPPER_CASE naming style
+main.py:62: [W0601(global-variable-undefined), FirstWindow.disp] Global variable 'n' undefined at the module level
+main.py:65: [C0103(invalid-name), FirstWindow.disp] Variable name "sa" doesn't conform to snake_case naming style
+main.py:69: [C0103(invalid-name), FirstWindow.disp] Variable name "rs" doesn't conform to snake_case naming style
+main.py:73: [C0103(invalid-name), FirstWindow.disp] Variable name "rs" doesn't conform to snake_case naming style
+main.py:79: [C0103(invalid-name), FirstWindow.disp] Variable name "rs" doesn't conform to snake_case naming style
+main.py:94: [C0116(missing-function-docstring), SecondWindow] Missing function or method docstring
+main.py:94: [C0103(invalid-name), SecondWindow] Function name "SecondWindow" doesn't conform to snake_case naming style
+main.py:102: [W0621(redefined-outer-name), SecondWindow] Redefining name 'label1' from outer scope (line 33)
+main.py:119: [W0621(redefined-outer-name), SecondWindow] Redefining name 'button1' from outer scope (line 90)
+main.py:214: [W0621(redefined-outer-name), SecondWindow] Redefining name 'button2' from outer scope (line 220)
+main.py:114: [C0103(invalid-name), SecondWindow] Variable name "dt" doesn't conform to snake_case naming style
+main.py:123: [R0914(too-many-locals), SecondWindow.filesentimentaction] Too many local variables (21/15)
+main.py:154: [W0621(redefined-outer-name), SecondWindow.filesentimentaction] Redefining name 'pos' from outer scope (line 37)
+main.py:155: [W0621(redefined-outer-name), SecondWindow.filesentimentaction] Redefining name 'neg' from outer scope (line 38)
+main.py:206: [W0621(redefined-outer-name), SecondWindow.filesentimentaction] Redefining name 'button3' from outer scope (line 349)
+main.py:124: [C0103(invalid-name), SecondWindow.filesentimentaction] Constant name "file" doesn't conform to UPPER_CASE naming style
+main.py:124: [W0601(global-variable-undefined), SecondWindow.filesentimentaction] Global variable 'file' undefined at the module level
+main.py:179: [C0115(missing-class-docstring), SecondWindow.filesentimentaction.graphactions] Missing class docstring
+main.py:179: [C0103(invalid-name), SecondWindow.filesentimentaction.graphactions] Class name "graphactions" doesn't conform to PascalCase naming style
+main.py:183: [C0116(missing-function-docstring), SecondWindow.filesentimentaction.graphactions.simplegraph] Missing function or method docstring
+main.py:190: [C0116(missing-function-docstring), SecondWindow.filesentimentaction.graphactions.scattergraph] Missing function or method docstring
+main.py:193: [C0103(invalid-name), SecondWindow.filesentimentaction.graphactions.scattergraph] Variable name "x" doesn't conform to snake_case naming style
+main.py:195: [C0103(invalid-name), SecondWindow.filesentimentaction.graphactions.scattergraph] Variable name "y" doesn't conform to snake_case naming style
+main.py:202: [C0103(invalid-name), SecondWindow.filesentimentaction] Variable name "a" doesn't conform to snake_case naming style
+main.py:123: [R0915(too-many-statements), SecondWindow.filesentimentaction] Too many statements (51/50)
+main.py:94: [R0915(too-many-statements), SecondWindow] Too many statements (70/50)
+main.py:224: [C0116(missing-function-docstring), ThirdWindow] Missing function or method docstring
+main.py:224: [C0103(invalid-name), ThirdWindow] Function name "ThirdWindow" doesn't conform to snake_case naming style
+main.py:232: [W0621(redefined-outer-name), ThirdWindow] Redefining name 'label1' from outer scope (line 33)
+main.py:249: [W0621(redefined-outer-name), ThirdWindow] Redefining name 'button1' from outer scope (line 90)
+main.py:344: [W0621(redefined-outer-name), ThirdWindow] Redefining name 'button2' from outer scope (line 220)
+main.py:244: [C0103(invalid-name), ThirdWindow] Variable name "dt" doesn't conform to snake_case naming style
+main.py:253: [R0914(too-many-locals), ThirdWindow.deepfilesentimentaction] Too many local variables (21/15)
+main.py:284: [W0621(redefined-outer-name), ThirdWindow.deepfilesentimentaction] Redefining name 'pos' from outer scope (line 37)
+main.py:285: [W0621(redefined-outer-name), ThirdWindow.deepfilesentimentaction] Redefining name 'neg' from outer scope (line 38)
+main.py:336: [W0621(redefined-outer-name), ThirdWindow.deepfilesentimentaction] Redefining name 'button3' from outer scope (line 349)
+main.py:254: [C0103(invalid-name), ThirdWindow.deepfilesentimentaction] Constant name "file" doesn't conform to UPPER_CASE naming style
+main.py:254: [W0601(global-variable-undefined), ThirdWindow.deepfilesentimentaction] Global variable 'file' undefined at the module level
+main.py:309: [C0115(missing-class-docstring), ThirdWindow.deepfilesentimentaction.graphactions] Missing class docstring
+main.py:309: [C0103(invalid-name), ThirdWindow.deepfilesentimentaction.graphactions] Class name "graphactions" doesn't conform to PascalCase naming style
+main.py:313: [C0116(missing-function-docstring), ThirdWindow.deepfilesentimentaction.graphactions.simplegraph] Missing function or method docstring
+main.py:320: [C0116(missing-function-docstring), ThirdWindow.deepfilesentimentaction.graphactions.scattergraph] Missing function or method docstring
+main.py:323: [C0103(invalid-name), ThirdWindow.deepfilesentimentaction.graphactions.scattergraph] Variable name "x" doesn't conform to snake_case naming style
+main.py:325: [C0103(invalid-name), ThirdWindow.deepfilesentimentaction.graphactions.scattergraph] Variable name "y" doesn't conform to snake_case naming style
+main.py:332: [C0103(invalid-name), ThirdWindow.deepfilesentimentaction] Variable name "a" doesn't conform to snake_case naming style
+main.py:253: [R0915(too-many-statements), ThirdWindow.deepfilesentimentaction] Too many statements (51/50)
+main.py:224: [R0915(too-many-statements), ThirdWindow] Too many statements (70/50)
+main.py:2: [C0411(wrong-import-order), ] standard import "from tkinter import *" should be placed before "from textblob import TextBlob"
+main.py:3: [C0411(wrong-import-order), ] standard import "import tkinter as tk" should be placed before "from textblob import TextBlob"
+main.py:6: [C0411(wrong-import-order), ] standard import "from csv import *" should be placed before "from textblob import TextBlob"
+main.py:7: [C0411(wrong-import-order), ] standard import "from tkinter import messagebox" should be placed before "from textblob import TextBlob"
+main.py:7: [C0412(ungrouped-imports), ] Imports from package tkinter are not grouped
+main.py:12: [C0412(ungrouped-imports), ] Imports from package textblob are not grouped
+main.py:13: [C0412(ungrouped-imports), ] Imports from package nltk are not grouped
+main.py:15: [C0412(ungrouped-imports), ] Imports from package textblob are not grouped
+main.py:22: [C0412(ungrouped-imports), ] Imports from package matplotlib are not grouped
+main.py:3: [W0611(unused-import), ] Unused tkinter imported as tk
+main.py:5: [W0611(unused-import), ] Unused import nltk
+main.py:7: [W0611(unused-import), ] Unused messagebox imported from tkinter
+main.py:9: [W0611(unused-import), ] Unused import gensim
+main.py:10: [W0611(unused-import), ] Unused seaborn imported as sns
+main.py:13: [W0611(unused-import), ] Unused PorterStemmer imported from nltk.stem
+main.py:14: [W0611(unused-import), ] Unused SpellChecker imported from spellchecker
+main.py:16: [W0611(unused-import), ] Unused ImageTk imported from PIL
+main.py:17: [W0611(unused-import), ] Unused KeyedVectors imported from gensim.models
+main.py:18: [W0611(unused-import), ] Unused glove2word2vec imported from gensim.scripts.glove2word2vec
+main.py:20: [W0611(unused-import), ] Unused chart_studio.plotly imported as py
+main.py:21: [W0611(unused-import), ] Unused plotly.tools imported as tls
+main.py:23: [W0611(unused-import), ] Unused numpy imported as np
+main.py:24: [W0611(unused-import), ] Unused import cv2
+main.py:2: [W0614(unused-wildcard-import), ] Unused import(s) collections, enum, sys, types, TclError, re, wantobjects, TkVersion, TclVersion, READABLE, WRITABLE, EXCEPTION, EventType, Event, NoDefaultRoot, Variable, IntVar, DoubleVar, BooleanVar, mainloop, getint, getdouble, getboolean, Misc, CallWrapper, XView, YView, Wm, Tcl, Pack, Place, Grid, BaseWidget, Widget, Toplevel, Canvas, Checkbutton, Listbox, Menu, Menubutton, Message, Radiobutton, Scale, Scrollbar, Text, OptionMenu, Image, BitmapImage, image_names, image_types, Spinbox, LabelFrame, PanedWindow, NO, FALSE, OFF, YES, TRUE, ON, N, S, W, E, NW, SW, NE, SE, NS, EW, NSEW, CENTER, NONE, X, Y, BOTH, TOP, RIGHT, BOTTOM, RAISED, SUNKEN, FLAT, RIDGE, GROOVE, SOLID, HORIZONTAL, VERTICAL, NUMERIC, CHAR, WORD, BASELINE, INSIDE, OUTSIDE, SEL, SEL_FIRST, SEL_LAST, END, INSERT, CURRENT, ANCHOR, ALL, NORMAL, DISABLED, ACTIVE, HIDDEN, CASCADE, CHECKBUTTON, COMMAND, RADIOBUTTON, SEPARATOR, SINGLE, BROWSE, MULTIPLE, EXTENDED, DOTBOX, UNDERLINE, PIESLICE, CHORD, ARC, FIRST, LAST, BUTT, PROJECTING, ROUND, BEVEL, MITER, MOVETO, SCROLL, UNITS and PAGES from wildcard import of tkinter
+main.py:6: [W0614(unused-wildcard-import), ] Unused import(s) Dialect, excel, excel_tab, unix_dialect, DictReader, DictWriter, complex, Sniffer, Error, writer, reader, register_dialect, unregister_dialect, get_dialect, list_dialects, field_size_limit, QUOTE_MINIMAL, QUOTE_ALL, QUOTE_NONNUMERIC, QUOTE_NONE and StringIO from wildcard import of csv
+
+
+Report
+======
+223 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |2      |NC         |NC         |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+|method   |6      |NC         |NC         |33.33       |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|function |6      |4          |+2.00      |50.00       |50.00    |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+354 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |227    |64.12 |43       |+184.00    |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |67     |18.93 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|empty     |60     |16.95 |14       |+46.00     |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |126    |5        |5          |
++-----------+-------+---------+-----------+
+|refactor   |6      |0        |0          |
++-----------+-------+---------+-----------+
+|warning    |227    |0        |0          |
++-----------+-------+---------+-----------+
+|error      |19     |3        |3          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++------------------------------+------------+
+|message id                    |occurrences |
++==============================+============+
+|bad-indentation               |184         |
++------------------------------+------------+
+|trailing-whitespace           |70          |
++------------------------------+------------+
+|invalid-name                  |20          |
++------------------------------+------------+
+|import-error                  |19          |
++------------------------------+------------+
+|line-too-long                 |16          |
++------------------------------+------------+
+|unused-import                 |14          |
++------------------------------+------------+
+|redefined-outer-name          |14          |
++------------------------------+------------+
+|missing-function-docstring    |7           |
++------------------------------+------------+
+|ungrouped-imports             |5           |
++------------------------------+------------+
+|wrong-import-order            |4           |
++------------------------------+------------+
+|too-many-statements           |4           |
++------------------------------+------------+
+|anomalous-backslash-in-string |4           |
++------------------------------+------------+
+|reimported                    |3           |
++------------------------------+------------+
+|global-variable-undefined     |3           |
++------------------------------+------------+
+|wildcard-import               |2           |
++------------------------------+------------+
+|unused-wildcard-import        |2           |
++------------------------------+------------+
+|too-many-locals               |2           |
++------------------------------+------------+
+|missing-class-docstring       |2           |
++------------------------------+------------+
+|redefined-builtin             |1           |
++------------------------------+------------+
+|missing-module-docstring      |1           |
++------------------------------+------------+
+|missing-final-newline         |1           |
++------------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 4.12/10, -4.12)
+

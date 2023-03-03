@@ -1,0 +1,170 @@
+************* Module auto-fb
+auto-fb.py:2: [C0303(trailing-whitespace), ] Trailing whitespace
+auto-fb.py:11: [C0303(trailing-whitespace), ] Trailing whitespace
+auto-fb.py:22: [C0301(line-too-long), ] Line too long (110/100)
+auto-fb.py:25: [W0311(bad-indentation), ] Bad indentation. Found 7 spaces, expected 8
+auto-fb.py:26: [W0311(bad-indentation), ] Bad indentation. Found 7 spaces, expected 8
+auto-fb.py:27: [W0311(bad-indentation), ] Bad indentation. Found 7 spaces, expected 8
+auto-fb.py:84: [C0301(line-too-long), ] Line too long (101/100)
+auto-fb.py:96: [C0301(line-too-long), ] Line too long (173/100)
+auto-fb.py:99: [C0301(line-too-long), ] Line too long (265/100)
+auto-fb.py:105: [C0301(line-too-long), ] Line too long (246/100)
+auto-fb.py:108: [C0303(trailing-whitespace), ] Trailing whitespace
+auto-fb.py:110: [C0301(line-too-long), ] Line too long (219/100)
+auto-fb.py:116: [C0303(trailing-whitespace), ] Trailing whitespace
+auto-fb.py:124: [C0304(missing-final-newline), ] Final newline missing
+auto-fb.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+auto-fb.py:1: [C0103(invalid-name), ] Module name "auto-fb" doesn't conform to snake_case naming style
+auto-fb.py:5: [E0401(import-error), ] Unable to import 'selenium'
+auto-fb.py:6: [E0401(import-error), ] Unable to import 'selenium.webdriver.common.by'
+auto-fb.py:7: [E0401(import-error), ] Unable to import 'selenium.webdriver.common.keys'
+auto-fb.py:8: [E0401(import-error), ] Unable to import 'selenium.webdriver.support.ui'
+auto-fb.py:9: [E0401(import-error), ] Unable to import 'selenium.webdriver.support'
+auto-fb.py:10: [E0401(import-error), ] Unable to import 'bs4'
+auto-fb.py:11: [E0401(import-error), ] Unable to import 'bs4'
+auto-fb.py:19: [C0116(missing-function-docstring), get_DailyPakistan_News] Missing function or method docstring
+auto-fb.py:19: [C0103(invalid-name), get_DailyPakistan_News] Function name "get_DailyPakistan_News" doesn't conform to snake_case naming style
+auto-fb.py:20: [W3101(missing-timeout), get_DailyPakistan_News] Missing timeout argument for method 'requests.get' can cause your program to hang indefinitely
+auto-fb.py:24: [W0612(unused-variable), get_DailyPakistan_News] Unused variable 'i'
+auto-fb.py:31: [C0116(missing-function-docstring), get_TheNews_News] Missing function or method docstring
+auto-fb.py:31: [C0103(invalid-name), get_TheNews_News] Function name "get_TheNews_News" doesn't conform to snake_case naming style
+auto-fb.py:32: [W3101(missing-timeout), get_TheNews_News] Missing timeout argument for method 'requests.get' can cause your program to hang indefinitely
+auto-fb.py:44: [C0116(missing-function-docstring), get_Geo_News] Missing function or method docstring
+auto-fb.py:44: [C0103(invalid-name), get_Geo_News] Function name "get_Geo_News" doesn't conform to snake_case naming style
+auto-fb.py:45: [W3101(missing-timeout), get_Geo_News] Missing timeout argument for method 'requests.get' can cause your program to hang indefinitely
+auto-fb.py:49: [W0612(unused-variable), get_Geo_News] Unused variable 'i'
+auto-fb.py:55: [C0116(missing-function-docstring), hashtags] Missing function or method docstring
+auto-fb.py:55: [W0621(redefined-outer-name), hashtags] Redefining name 'hash_idea' from outer scope (line 121)
+auto-fb.py:71: [W0702(bare-except), hashtags] No exception type(s) specified
+auto-fb.py:55: [R1710(inconsistent-return-statements), hashtags] Either all return statements in a function should return an expression, or none of them should.
+auto-fb.py:60: [R1732(consider-using-with), hashtags] Consider using 'with' for resource-allocating operations
+auto-fb.py:76: [C0116(missing-function-docstring), login] Missing function or method docstring
+auto-fb.py:76: [W0621(redefined-outer-name), login] Redefining name 'username' from outer scope (line 119)
+auto-fb.py:76: [W0621(redefined-outer-name), login] Redefining name 'password' from outer scope (line 120)
+auto-fb.py:87: [W0702(bare-except), login] No exception type(s) specified
+auto-fb.py:92: [C0116(missing-function-docstring), post] Missing function or method docstring
+auto-fb.py:113: [W0702(bare-except), post] No exception type(s) specified
+auto-fb.py:119: [C0103(invalid-name), ] Constant name "username" doesn't conform to UPPER_CASE naming style
+auto-fb.py:120: [C0103(invalid-name), ] Constant name "password" doesn't conform to UPPER_CASE naming style
+auto-fb.py:121: [C0103(invalid-name), ] Constant name "hash_idea" doesn't conform to UPPER_CASE naming style
+auto-fb.py:12: [C0411(wrong-import-order), ] standard import "from urllib.request import Request, urlopen" should be placed before "from selenium import webdriver"
+auto-fb.py:13: [C0411(wrong-import-order), ] standard import "from time import sleep" should be placed before "from selenium import webdriver"
+auto-fb.py:7: [W0611(unused-import), ] Unused Keys imported from selenium.webdriver.common.keys
+auto-fb.py:10: [W0611(unused-import), ] Unused import bs4
+
+
+Report
+======
+93 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |6      |6          |=          |0.00        |50.00    |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+126 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |95     |75.40 |95       |=          |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |13     |10.32 |13       |=          |
++----------+-------+------+---------+-----------+
+|empty     |18     |14.29 |18       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |27     |27       |27         |
++-----------+-------+---------+-----------+
+|refactor   |2      |2        |2          |
++-----------+-------+---------+-----------+
+|warning    |16     |16       |16         |
++-----------+-------+---------+-----------+
+|error      |7      |7        |7          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++-------------------------------+------------+
+|message id                     |occurrences |
++===============================+============+
+|invalid-name                   |7           |
++-------------------------------+------------+
+|import-error                   |7           |
++-------------------------------+------------+
+|missing-function-docstring     |6           |
++-------------------------------+------------+
+|line-too-long                  |6           |
++-------------------------------+------------+
+|trailing-whitespace            |4           |
++-------------------------------+------------+
+|redefined-outer-name           |3           |
++-------------------------------+------------+
+|missing-timeout                |3           |
++-------------------------------+------------+
+|bare-except                    |3           |
++-------------------------------+------------+
+|bad-indentation                |3           |
++-------------------------------+------------+
+|wrong-import-order             |2           |
++-------------------------------+------------+
+|unused-variable                |2           |
++-------------------------------+------------+
+|unused-import                  |2           |
++-------------------------------+------------+
+|missing-module-docstring       |1           |
++-------------------------------+------------+
+|missing-final-newline          |1           |
++-------------------------------+------------+
+|inconsistent-return-statements |1           |
++-------------------------------+------------+
+|consider-using-with            |1           |
++-------------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 1.40/10 (previous run: 1.40/10, +0.00)
+

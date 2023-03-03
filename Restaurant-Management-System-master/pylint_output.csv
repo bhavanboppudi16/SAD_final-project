@@ -1,0 +1,227 @@
+************* Module mainproject
+mainproject.py:41: [C0301(line-too-long), ] Line too long (131/100)
+mainproject.py:44: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:46: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:48: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:50: [C0301(line-too-long), ] Line too long (131/100)
+mainproject.py:53: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:55: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:57: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:59: [C0301(line-too-long), ] Line too long (134/100)
+mainproject.py:62: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:64: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:66: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:68: [C0301(line-too-long), ] Line too long (131/100)
+mainproject.py:71: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:73: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:75: [C0301(line-too-long), ] Line too long (125/100)
+mainproject.py:77: [C0301(line-too-long), ] Line too long (131/100)
+mainproject.py:78: [C0303(trailing-whitespace), ] Trailing whitespace
+mainproject.py:86: [C0301(line-too-long), ] Line too long (113/100)
+mainproject.py:101: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+mainproject.py:106: [C0303(trailing-whitespace), ] Trailing whitespace
+mainproject.py:107: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+mainproject.py:113: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+mainproject.py:119: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+mainproject.py:124: [C0303(trailing-whitespace), ] Trailing whitespace
+mainproject.py:125: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+mainproject.py:130: [C0303(trailing-whitespace), ] Trailing whitespace
+mainproject.py:131: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+mainproject.py:136: [C0303(trailing-whitespace), ] Trailing whitespace
+mainproject.py:145: [C0325(superfluous-parens), ] Unnecessary parens after '=' keyword
+mainproject.py:147: [C0325(superfluous-parens), ] Unnecessary parens after '=' keyword
+mainproject.py:149: [C0325(superfluous-parens), ] Unnecessary parens after '=' keyword
+mainproject.py:151: [C0301(line-too-long), ] Line too long (105/100)
+mainproject.py:161: [C0303(trailing-whitespace), ] Trailing whitespace
+mainproject.py:179: [C0303(trailing-whitespace), ] Trailing whitespace
+mainproject.py:198: [C0301(line-too-long), ] Line too long (106/100)
+mainproject.py:203: [C0301(line-too-long), ] Line too long (112/100)
+mainproject.py:208: [C0301(line-too-long), ] Line too long (116/100)
+mainproject.py:213: [C0301(line-too-long), ] Line too long (108/100)
+mainproject.py:218: [C0301(line-too-long), ] Line too long (108/100)
+mainproject.py:223: [C0301(line-too-long), ] Line too long (110/100)
+mainproject.py:233: [C0301(line-too-long), ] Line too long (113/100)
+mainproject.py:238: [C0301(line-too-long), ] Line too long (108/100)
+mainproject.py:244: [C0301(line-too-long), ] Line too long (108/100)
+mainproject.py:250: [C0301(line-too-long), ] Line too long (108/100)
+mainproject.py:255: [C0301(line-too-long), ] Line too long (114/100)
+mainproject.py:262: [C0301(line-too-long), ] Line too long (142/100)
+mainproject.py:264: [C0301(line-too-long), ] Line too long (144/100)
+mainproject.py:266: [C0301(line-too-long), ] Line too long (142/100)
+mainproject.py:271: [C0305(trailing-newlines), ] Trailing newlines
+mainproject.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+mainproject.py:1: [W0401(wildcard-import), ] Wildcard import tkinter
+mainproject.py:11: [C0103(invalid-name), ] Constant name "operator" doesn't conform to UPPER_CASE naming style
+mainproject.py:25: [C0116(missing-function-docstring), btnclick] Missing function or method docstring
+mainproject.py:26: [C0103(invalid-name), btnclick] Constant name "operator" doesn't conform to UPPER_CASE naming style
+mainproject.py:26: [W0603(global-statement), btnclick] Using the global statement
+mainproject.py:30: [C0116(missing-function-docstring), btnClearDisplay] Missing function or method docstring
+mainproject.py:30: [C0103(invalid-name), btnClearDisplay] Function name "btnClearDisplay" doesn't conform to snake_case naming style
+mainproject.py:31: [C0103(invalid-name), btnClearDisplay] Constant name "operator" doesn't conform to UPPER_CASE naming style
+mainproject.py:31: [W0603(global-statement), btnClearDisplay] Using the global statement
+mainproject.py:35: [C0116(missing-function-docstring), btnEqualsInput] Missing function or method docstring
+mainproject.py:35: [C0103(invalid-name), btnEqualsInput] Function name "btnEqualsInput" doesn't conform to snake_case naming style
+mainproject.py:36: [C0103(invalid-name), btnEqualsInput] Constant name "operator" doesn't conform to UPPER_CASE naming style
+mainproject.py:36: [W0603(global-statement), btnEqualsInput] Using the global statement
+mainproject.py:37: [W0123(eval-used), btnEqualsInput] Use of eval
+mainproject.py:96: [C0116(missing-function-docstring), Ref] Missing function or method docstring
+mainproject.py:96: [C0103(invalid-name), Ref] Function name "Ref" doesn't conform to snake_case naming style
+mainproject.py:96: [R0914(too-many-locals), Ref] Too many local variables (21/15)
+mainproject.py:97: [C0103(invalid-name), Ref] Variable name "x" doesn't conform to snake_case naming style
+mainproject.py:98: [C0103(invalid-name), Ref] Variable name "randomRef" doesn't conform to snake_case naming style
+mainproject.py:102: [C0103(invalid-name), Ref] Variable name "CoIdly" doesn't conform to snake_case naming style
+mainproject.py:104: [C0103(invalid-name), Ref] Variable name "CoIdly" doesn't conform to snake_case naming style
+mainproject.py:108: [C0103(invalid-name), Ref] Variable name "CoDosa" doesn't conform to snake_case naming style
+mainproject.py:110: [C0103(invalid-name), Ref] Variable name "CoDosa" doesn't conform to snake_case naming style
+mainproject.py:114: [C0103(invalid-name), Ref] Variable name "CoIceCream" doesn't conform to snake_case naming style
+mainproject.py:116: [C0103(invalid-name), Ref] Variable name "CoIceCream" doesn't conform to snake_case naming style
+mainproject.py:120: [C0103(invalid-name), Ref] Variable name "CoPulav" doesn't conform to snake_case naming style
+mainproject.py:122: [C0103(invalid-name), Ref] Variable name "CoPulav" doesn't conform to snake_case naming style
+mainproject.py:126: [C0103(invalid-name), Ref] Variable name "CoTea" doesn't conform to snake_case naming style
+mainproject.py:128: [C0103(invalid-name), Ref] Variable name "CoTea" doesn't conform to snake_case naming style
+mainproject.py:132: [C0103(invalid-name), Ref] Variable name "CoD" doesn't conform to snake_case naming style
+mainproject.py:134: [C0103(invalid-name), Ref] Variable name "CoD" doesn't conform to snake_case naming style
+mainproject.py:137: [C0103(invalid-name), Ref] Variable name "CostofIdly" doesn't conform to snake_case naming style
+mainproject.py:138: [C0103(invalid-name), Ref] Variable name "CostofDrinks" doesn't conform to snake_case naming style
+mainproject.py:139: [C0103(invalid-name), Ref] Variable name "CostofDosa" doesn't conform to snake_case naming style
+mainproject.py:140: [C0103(invalid-name), Ref] Variable name "CostofIceCream" doesn't conform to snake_case naming style
+mainproject.py:141: [C0103(invalid-name), Ref] Variable name "CostPulav" doesn't conform to snake_case naming style
+mainproject.py:142: [C0103(invalid-name), Ref] Variable name "CostTea" doesn't conform to snake_case naming style
+mainproject.py:145: [C0103(invalid-name), Ref] Variable name "Central_GST" doesn't conform to snake_case naming style
+mainproject.py:147: [C0103(invalid-name), Ref] Variable name "State_GST" doesn't conform to snake_case naming style
+mainproject.py:149: [C0103(invalid-name), Ref] Variable name "Total_cost" doesn't conform to snake_case naming style
+mainproject.py:151: [C0103(invalid-name), Ref] Variable name "CostofMeal" doesn't conform to snake_case naming style
+mainproject.py:151: [C0209(consider-using-f-string), Ref] Formatting a regular string which could be a f-string
+mainproject.py:152: [C0103(invalid-name), Ref] Variable name "C_gst" doesn't conform to snake_case naming style
+mainproject.py:152: [C0209(consider-using-f-string), Ref] Formatting a regular string which could be a f-string
+mainproject.py:153: [C0103(invalid-name), Ref] Variable name "S_gst" doesn't conform to snake_case naming style
+mainproject.py:153: [C0209(consider-using-f-string), Ref] Formatting a regular string which could be a f-string
+mainproject.py:154: [C0103(invalid-name), Ref] Variable name "OverAllCost" doesn't conform to snake_case naming style
+mainproject.py:154: [C0209(consider-using-f-string), Ref] Formatting a regular string which could be a f-string
+mainproject.py:162: [C0116(missing-function-docstring), qExit] Missing function or method docstring
+mainproject.py:162: [C0103(invalid-name), qExit] Function name "qExit" doesn't conform to snake_case naming style
+mainproject.py:165: [C0116(missing-function-docstring), Reset] Missing function or method docstring
+mainproject.py:165: [C0103(invalid-name), Reset] Function name "Reset" doesn't conform to snake_case naming style
+mainproject.py:262: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+mainproject.py:262: [C0103(invalid-name), ] Constant name "btnTotal" doesn't conform to UPPER_CASE naming style
+mainproject.py:264: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+mainproject.py:264: [C0103(invalid-name), ] Constant name "btnReset" doesn't conform to UPPER_CASE naming style
+mainproject.py:266: [E1111(assignment-from-no-return), ] Assigning result of a function call, where the function has no return
+mainproject.py:266: [C0103(invalid-name), ] Constant name "btnExit" doesn't conform to UPPER_CASE naming style
+mainproject.py:4: [W0611(unused-import), ] Unused import datetime
+mainproject.py:1: [W0614(unused-wildcard-import), ] Unused import(s) collections, enum, sys, types, TclError, re, wantobjects, TkVersion, TclVersion, READABLE, WRITABLE, EXCEPTION, EventType, Event, NoDefaultRoot, Variable, IntVar, DoubleVar, BooleanVar, mainloop, getint, getdouble, getboolean, Misc, CallWrapper, XView, YView, Wm, Tcl, Pack, Place, Grid, BaseWidget, Widget, Toplevel, Canvas, Checkbutton, Listbox, Menu, Menubutton, Message, Radiobutton, Scale, Scrollbar, Text, OptionMenu, Image, PhotoImage, BitmapImage, image_names, image_types, Spinbox, LabelFrame, PanedWindow, NO, FALSE, OFF, YES, TRUE, ON, N, S, W, E, NW, SW, NE, SE, NS, EW, NSEW, CENTER, NONE, X, Y, BOTH, BOTTOM, RAISED, FLAT, RIDGE, GROOVE, SOLID, HORIZONTAL, VERTICAL, NUMERIC, CHAR, WORD, BASELINE, INSIDE, OUTSIDE, SEL, SEL_FIRST, SEL_LAST, END, INSERT, CURRENT, ANCHOR, ALL, NORMAL, DISABLED, ACTIVE, HIDDEN, CASCADE, CHECKBUTTON, COMMAND, RADIOBUTTON, SEPARATOR, SINGLE, BROWSE, MULTIPLE, EXTENDED, DOTBOX, UNDERLINE, PIESLICE, CHORD, ARC, FIRST, LAST, BUTT, PROJECTING, ROUND, BEVEL, MITER, MOVETO, SCROLL, UNITS and PAGES from wildcard import of tkinter
+
+
+Report
+======
+179 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |6      |6          |=          |0.00        |83.33    |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+273 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |186    |68.13 |186      |=          |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |18     |6.59  |18       |=          |
++----------+-------+------+---------+-----------+
+|empty     |69     |25.27 |69       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |100    |100      |100        |
++-----------+-------+---------+-----------+
+|refactor   |1      |1        |1          |
++-----------+-------+---------+-----------+
+|warning    |7      |7        |7          |
++-----------+-------+---------+-----------+
+|error      |3      |3        |3          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|invalid-name               |39          |
++---------------------------+------------+
+|line-too-long              |33          |
++---------------------------+------------+
+|superfluous-parens         |9           |
++---------------------------+------------+
+|trailing-whitespace        |7           |
++---------------------------+------------+
+|missing-function-docstring |6           |
++---------------------------+------------+
+|consider-using-f-string    |4           |
++---------------------------+------------+
+|global-statement           |3           |
++---------------------------+------------+
+|assignment-from-no-return  |3           |
++---------------------------+------------+
+|wildcard-import            |1           |
++---------------------------+------------+
+|unused-wildcard-import     |1           |
++---------------------------+------------+
+|unused-import              |1           |
++---------------------------+------------+
+|trailing-newlines          |1           |
++---------------------------+------------+
+|too-many-locals            |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|eval-used                  |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 3.13/10 (previous run: 3.13/10, +0.00)
+

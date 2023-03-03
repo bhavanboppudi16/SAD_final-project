@@ -1,0 +1,151 @@
+************* Module main
+main.py:7: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:15: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:24: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:33: [C0301(line-too-long), ] Line too long (101/100)
+main.py:74: [C0301(line-too-long), ] Line too long (151/100)
+main.py:80: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:85: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:87: [C0301(line-too-long), ] Line too long (120/100)
+main.py:88: [C0301(line-too-long), ] Line too long (126/100)
+main.py:93: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:100: [C0303(trailing-whitespace), ] Trailing whitespace
+main.py:108: [C0304(missing-final-newline), ] Final newline missing
+main.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+main.py:4: [E0401(import-error), ] Unable to import 'pygame'
+main.py:5: [E0401(import-error), ] Unable to import 'pygame.locals'
+main.py:5: [W0401(wildcard-import), ] Wildcard import pygame.locals
+main.py:11: [C0115(missing-class-docstring), Threads] Missing class docstring
+main.py:12: [W0621(redefined-outer-name), Threads.__init__] Redefining name 'app' from outer scope (line 107)
+main.py:26: [C0115(missing-class-docstring), FrontApp] Missing class docstring
+main.py:34: [C0103(invalid-name), FrontApp.__init__] Attribute name "appsOpen" doesn't conform to snake_case naming style
+main.py:26: [R0902(too-many-instance-attributes), FrontApp] Too many instance attributes (12/7)
+main.py:42: [C0116(missing-function-docstring), FrontApp.startApp] Missing function or method docstring
+main.py:42: [C0103(invalid-name), FrontApp.startApp] Method name "startApp" doesn't conform to snake_case naming style
+main.py:42: [W0621(redefined-outer-name), FrontApp.startApp] Redefining name 'app' from outer scope (line 107)
+main.py:47: [C0116(missing-function-docstring), FrontApp.run] Missing function or method docstring
+main.py:54: [R1722(consider-using-sys-exit), FrontApp.run] Consider using 'sys.exit' instead
+main.py:58: [R1722(consider-using-sys-exit), FrontApp.run] Consider using 'sys.exit' instead
+main.py:64: [C0116(missing-function-docstring), FrontApp.draw] Missing function or method docstring
+main.py:82: [W0201(attribute-defined-outside-init), FrontApp.draw] Attribute 'display' defined outside __init__
+
+
+Report
+======
+71 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |2      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|method   |6      |NC         |NC         |50.00       |16.67    |
++---------+-------+-----------+-----------+------------+---------+
+|function |0      |5          |-5.00      |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+External dependencies
+---------------------
+::
+
+    support 
+      \-buttons (main)
+      \-color (main)
+
+
+
+110 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |76     |69.09 |53       |+23.00     |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |18     |16.36 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|empty     |16     |14.55 |7        |+9.00      |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |20     |15       |15         |
++-----------+-------+---------+-----------+
+|refactor   |3      |1        |1          |
++-----------+-------+---------+-----------+
+|warning    |4      |34       |34         |
++-----------+-------+---------+-----------+
+|error      |2      |2        |2          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++-------------------------------+------------+
+|message id                     |occurrences |
++===============================+============+
+|trailing-whitespace            |7           |
++-------------------------------+------------+
+|line-too-long                  |4           |
++-------------------------------+------------+
+|missing-function-docstring     |3           |
++-------------------------------+------------+
+|redefined-outer-name           |2           |
++-------------------------------+------------+
+|missing-class-docstring        |2           |
++-------------------------------+------------+
+|invalid-name                   |2           |
++-------------------------------+------------+
+|import-error                   |2           |
++-------------------------------+------------+
+|consider-using-sys-exit        |2           |
++-------------------------------+------------+
+|wildcard-import                |1           |
++-------------------------------+------------+
+|too-many-instance-attributes   |1           |
++-------------------------------+------------+
+|missing-module-docstring       |1           |
++-------------------------------+------------+
+|missing-final-newline          |1           |
++-------------------------------+------------+
+|attribute-defined-outside-init |1           |
++-------------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 4.79/10 (previous run: 0.00/10, +4.79)
+

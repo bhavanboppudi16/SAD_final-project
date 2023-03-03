@@ -1,0 +1,119 @@
+************* Module app
+app.py:19: [C0301(line-too-long), ] Line too long (107/100)
+app.py:38: [C0304(missing-final-newline), ] Final newline missing
+app.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+app.py:4: [C0115(missing-class-docstring), GuessingGame] Missing class docstring
+app.py:5: [W0621(redefined-outer-name), GuessingGame.__init__] Redefining name 'window' from outer scope (line 36)
+app.py:6: [C0321(multiple-statements), GuessingGame.__init__] More than one statement on a single line
+app.py:12: [C0321(multiple-statements), GuessingGame.__init__] More than one statement on a single line
+app.py:13: [C0321(multiple-statements), GuessingGame.__init__] More than one statement on a single line
+app.py:16: [C0116(missing-function-docstring), GuessingGame.new_random] Missing function or method docstring
+app.py:17: [C3001(unnecessary-lambda-assignment), GuessingGame.new_random.<lambda>] Lambda expression assigned to a variable. Define a function using the "def" keyword instead.
+app.py:19: [C0209(consider-using-f-string), GuessingGame.new_random] Formatting a regular string which could be a f-string
+app.py:23: [C0116(missing-function-docstring), GuessingGame.check_guess] Missing function or method docstring
+app.py:33: [W0702(bare-except), GuessingGame.check_guess] No exception type(s) specified
+
+
+Report
+======
+37 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |1      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|method   |3      |NC         |NC         |33.33       |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|function |0      |3          |-3.00      |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+40 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |35     |87.50 |18       |+17.00     |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |1        |-1.00      |
++----------+-------+------+---------+-----------+
+|comment   |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|empty     |5      |12.50 |5        |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |11     |4        |4          |
++-----------+-------+---------+-----------+
+|refactor   |0      |0        |0          |
++-----------+-------+---------+-----------+
+|warning    |2      |0        |0          |
++-----------+-------+---------+-----------+
+|error      |0      |1        |1          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++------------------------------+------------+
+|message id                    |occurrences |
++==============================+============+
+|multiple-statements           |3           |
++------------------------------+------------+
+|missing-function-docstring    |2           |
++------------------------------+------------+
+|unnecessary-lambda-assignment |1           |
++------------------------------+------------+
+|redefined-outer-name          |1           |
++------------------------------+------------+
+|missing-module-docstring      |1           |
++------------------------------+------------+
+|missing-final-newline         |1           |
++------------------------------+------------+
+|missing-class-docstring       |1           |
++------------------------------+------------+
+|line-too-long                 |1           |
++------------------------------+------------+
+|consider-using-f-string       |1           |
++------------------------------+------------+
+|bare-except                   |1           |
++------------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 6.49/10 (previous run: 3.57/10, +2.92)
+

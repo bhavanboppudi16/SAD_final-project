@@ -1,0 +1,232 @@
+************* Module scientific_calculator
+scientific_calculator.py:7: [C0303(trailing-whitespace), ] Trailing whitespace
+scientific_calculator.py:31: [C0303(trailing-whitespace), ] Trailing whitespace
+scientific_calculator.py:39: [C0301(line-too-long), ] Line too long (106/100)
+scientific_calculator.py:44: [C0301(line-too-long), ] Line too long (106/100)
+scientific_calculator.py:50: [C0301(line-too-long), ] Line too long (123/100)
+scientific_calculator.py:71: [C0301(line-too-long), ] Line too long (105/100)
+scientific_calculator.py:73: [C0301(line-too-long), ] Line too long (119/100)
+scientific_calculator.py:78: [C0301(line-too-long), ] Line too long (107/100)
+scientific_calculator.py:103: [C0301(line-too-long), ] Line too long (105/100)
+scientific_calculator.py:112: [C0301(line-too-long), ] Line too long (111/100)
+scientific_calculator.py:125: [C0301(line-too-long), ] Line too long (105/100)
+scientific_calculator.py:131: [C0301(line-too-long), ] Line too long (104/100)
+scientific_calculator.py:160: [C0301(line-too-long), ] Line too long (117/100)
+scientific_calculator.py:165: [C0301(line-too-long), ] Line too long (137/100)
+scientific_calculator.py:169: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+scientific_calculator.py:171: [C0325(superfluous-parens), ] Unnecessary parens after 'elif' keyword
+scientific_calculator.py:173: [C0325(superfluous-parens), ] Unnecessary parens after 'elif' keyword
+scientific_calculator.py:175: [C0325(superfluous-parens), ] Unnecessary parens after 'elif' keyword
+scientific_calculator.py:177: [C0325(superfluous-parens), ] Unnecessary parens after 'elif' keyword
+scientific_calculator.py:179: [C0325(superfluous-parens), ] Unnecessary parens after 'elif' keyword
+scientific_calculator.py:183: [C0325(superfluous-parens), ] Unnecessary parens after 'return' keyword
+scientific_calculator.py:198: [C0301(line-too-long), ] Line too long (116/100)
+scientific_calculator.py:211: [C0301(line-too-long), ] Line too long (143/100)
+scientific_calculator.py:213: [C0303(trailing-whitespace), ] Trailing whitespace
+scientific_calculator.py:216: [C0301(line-too-long), ] Line too long (153/100)
+scientific_calculator.py:240: [C0303(trailing-whitespace), ] Trailing whitespace
+scientific_calculator.py:306: [C0304(missing-final-newline), ] Final newline missing
+scientific_calculator.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+scientific_calculator.py:5: [E0401(import-error), ] Unable to import 'tqdm'
+scientific_calculator.py:10: [C0116(missing-function-docstring), Welcome] Missing function or method docstring
+scientific_calculator.py:10: [C0103(invalid-name), Welcome] Function name "Welcome" doesn't conform to snake_case naming style
+scientific_calculator.py:16: [W0621(redefined-outer-name), Welcome] Redefining name 'i' from outer scope (line 296)
+scientific_calculator.py:18: [W0107(unnecessary-pass), Welcome] Unnecessary pass statement
+scientific_calculator.py:16: [W0612(unused-variable), Welcome] Unused variable 'i'
+scientific_calculator.py:23: [C0116(missing-function-docstring), Addition] Missing function or method docstring
+scientific_calculator.py:23: [C0103(invalid-name), Addition] Function name "Addition" doesn't conform to snake_case naming style
+scientific_calculator.py:26: [W0622(redefined-builtin), Addition] Redefining built-in 'sum'
+scientific_calculator.py:27: [C0103(invalid-name), Addition] Variable name "x" doesn't conform to snake_case naming style
+scientific_calculator.py:29: [C0103(invalid-name), Addition] Variable name "y" doesn't conform to snake_case naming style
+scientific_calculator.py:35: [C0116(missing-function-docstring), Subtraction] Missing function or method docstring
+scientific_calculator.py:35: [C0103(invalid-name), Subtraction] Function name "Subtraction" doesn't conform to snake_case naming style
+scientific_calculator.py:54: [W0621(redefined-outer-name), Subtraction] Redefining name 'i' from outer scope (line 296)
+scientific_calculator.py:37: [C0103(invalid-name), Subtraction] Variable name "No_of_variable" doesn't conform to snake_case naming style
+scientific_calculator.py:41: [C0103(invalid-name), Subtraction] Variable name "Num1" doesn't conform to snake_case naming style
+scientific_calculator.py:42: [C0103(invalid-name), Subtraction] Variable name "Num2" doesn't conform to snake_case naming style
+scientific_calculator.py:46: [C0103(invalid-name), Subtraction] Variable name "Num1" doesn't conform to snake_case naming style
+scientific_calculator.py:47: [C0103(invalid-name), Subtraction] Variable name "Num2" doesn't conform to snake_case naming style
+scientific_calculator.py:48: [C0103(invalid-name), Subtraction] Variable name "Num3" doesn't conform to snake_case naming style
+scientific_calculator.py:53: [C0103(invalid-name), Subtraction] Variable name "x" doesn't conform to snake_case naming style
+scientific_calculator.py:63: [C0116(missing-function-docstring), Multiplication] Missing function or method docstring
+scientific_calculator.py:63: [C0103(invalid-name), Multiplication] Function name "Multiplication" doesn't conform to snake_case naming style
+scientific_calculator.py:82: [W0621(redefined-outer-name), Multiplication] Redefining name 'i' from outer scope (line 296)
+scientific_calculator.py:70: [R1714(consider-using-in), Multiplication] Consider merging these comparisons with 'in' by using 'option in ('y', 'Y')'. Use a set instead if elements are hashable.
+scientific_calculator.py:71: [C0103(invalid-name), Multiplication] Variable name "Number" doesn't conform to snake_case naming style
+scientific_calculator.py:75: [C0103(invalid-name), Multiplication] Variable name "Number1" doesn't conform to snake_case naming style
+scientific_calculator.py:76: [C0103(invalid-name), Multiplication] Variable name "Number2" doesn't conform to snake_case naming style
+scientific_calculator.py:81: [C0103(invalid-name), Multiplication] Variable name "x" doesn't conform to snake_case naming style
+scientific_calculator.py:85: [C0103(invalid-name), Multiplication] Variable name "x" doesn't conform to snake_case naming style
+scientific_calculator.py:91: [C0116(missing-function-docstring), Division] Missing function or method docstring
+scientific_calculator.py:91: [C0103(invalid-name), Division] Function name "Division" doesn't conform to snake_case naming style
+scientific_calculator.py:102: [W0621(redefined-outer-name), Division] Redefining name 'Division' from outer scope (line 91)
+scientific_calculator.py:96: [C0103(invalid-name), Division] Variable name "Num1" doesn't conform to snake_case naming style
+scientific_calculator.py:97: [C0103(invalid-name), Division] Variable name "Num2" doesn't conform to snake_case naming style
+scientific_calculator.py:102: [C0103(invalid-name), Division] Variable name "Division" doesn't conform to snake_case naming style
+scientific_calculator.py:105: [C0103(invalid-name), Division] Variable name "Num1" doesn't conform to snake_case naming style
+scientific_calculator.py:106: [C0103(invalid-name), Division] Variable name "Num2" doesn't conform to snake_case naming style
+scientific_calculator.py:111: [C0103(invalid-name), Division] Variable name "Division" doesn't conform to snake_case naming style
+scientific_calculator.py:119: [C0116(missing-function-docstring), Modulus] Missing function or method docstring
+scientific_calculator.py:119: [C0103(invalid-name), Modulus] Function name "Modulus" doesn't conform to snake_case naming style
+scientific_calculator.py:120: [C0103(invalid-name), Modulus] Variable name "x" doesn't conform to snake_case naming style
+scientific_calculator.py:121: [C0103(invalid-name), Modulus] Variable name "y" doesn't conform to snake_case naming style
+scientific_calculator.py:123: [C0209(consider-using-f-string), Modulus] Formatting a regular string which could be a f-string
+scientific_calculator.py:127: [C0116(missing-function-docstring), Powers_Exponents] Missing function or method docstring
+scientific_calculator.py:127: [C0103(invalid-name), Powers_Exponents] Function name "Powers_Exponents" doesn't conform to snake_case naming style
+scientific_calculator.py:128: [C0103(invalid-name), Powers_Exponents] Variable name "Base" doesn't conform to snake_case naming style
+scientific_calculator.py:135: [C0116(missing-function-docstring), Calculating_Roots] Missing function or method docstring
+scientific_calculator.py:135: [C0103(invalid-name), Calculating_Roots] Function name "Calculating_Roots" doesn't conform to snake_case naming style
+scientific_calculator.py:136: [C0103(invalid-name), Calculating_Roots] Variable name "Number" doesn't conform to snake_case naming style
+scientific_calculator.py:148: [C0116(missing-function-docstring), Factorial] Missing function or method docstring
+scientific_calculator.py:148: [C0103(invalid-name), Factorial] Function name "Factorial" doesn't conform to snake_case naming style
+scientific_calculator.py:157: [W0621(redefined-outer-name), Factorial] Redefining name 'i' from outer scope (line 296)
+scientific_calculator.py:150: [C0103(invalid-name), Factorial] Variable name "Number" doesn't conform to snake_case naming style
+scientific_calculator.py:151: [C0121(singleton-comparison), Factorial] Comparison 'Number.is_integer() == True' should be 'Number.is_integer() is True' if checking for the singleton value True, or 'bool(Number.is_integer())' if testing for truthiness
+scientific_calculator.py:159: [W0107(unnecessary-pass), Factorial] Unnecessary pass statement
+scientific_calculator.py:157: [W0612(unused-variable), Factorial] Unused variable 'i'
+scientific_calculator.py:164: [C0116(missing-function-docstring), Trignometry] Missing function or method docstring
+scientific_calculator.py:164: [C0103(invalid-name), Trignometry] Function name "Trignometry" doesn't conform to snake_case naming style
+scientific_calculator.py:167: [C0103(invalid-name), Trignometry] Variable name "x" doesn't conform to snake_case naming style
+scientific_calculator.py:168: [C0103(invalid-name), Trignometry] Variable name "x" doesn't conform to snake_case naming style
+scientific_calculator.py:187: [C0116(missing-function-docstring), logarithms] Missing function or method docstring
+scientific_calculator.py:193: [C0103(invalid-name), logarithms] Variable name "Base" doesn't conform to snake_case naming style
+scientific_calculator.py:196: [C0103(invalid-name), logarithms] Variable name "Base" doesn't conform to snake_case naming style
+scientific_calculator.py:197: [C0103(invalid-name), logarithms] Variable name "Exponent" doesn't conform to snake_case naming style
+scientific_calculator.py:205: [C0116(missing-function-docstring), Eucledian_distance] Missing function or method docstring
+scientific_calculator.py:205: [C0103(invalid-name), Eucledian_distance] Function name "Eucledian_distance" doesn't conform to snake_case naming style
+scientific_calculator.py:210: [W0621(redefined-outer-name), Eucledian_distance] Redefining name 'Eucledian_distance' from outer scope (line 205)
+scientific_calculator.py:206: [C0103(invalid-name), Eucledian_distance] Variable name "x1" doesn't conform to snake_case naming style
+scientific_calculator.py:207: [C0103(invalid-name), Eucledian_distance] Variable name "x2" doesn't conform to snake_case naming style
+scientific_calculator.py:208: [C0103(invalid-name), Eucledian_distance] Variable name "y1" doesn't conform to snake_case naming style
+scientific_calculator.py:209: [C0103(invalid-name), Eucledian_distance] Variable name "y2" doesn't conform to snake_case naming style
+scientific_calculator.py:210: [C0103(invalid-name), Eucledian_distance] Variable name "Eucledian_distance" doesn't conform to snake_case naming style
+scientific_calculator.py:215: [C0116(missing-function-docstring), Area] Missing function or method docstring
+scientific_calculator.py:215: [C0103(invalid-name), Area] Function name "Area" doesn't conform to snake_case naming style
+scientific_calculator.py:230: [C0103(invalid-name), Area] Variable name "Radius" doesn't conform to snake_case naming style
+scientific_calculator.py:231: [C0209(consider-using-f-string), Area] Formatting a regular string which could be a f-string
+scientific_calculator.py:236: [C0209(consider-using-f-string), Area] Formatting a regular string which could be a f-string
+scientific_calculator.py:242: [C0116(missing-function-docstring), Calculator] Missing function or method docstring
+scientific_calculator.py:242: [C0103(invalid-name), Calculator] Function name "Calculator" doesn't conform to snake_case naming style
+scientific_calculator.py:242: [R0912(too-many-branches), Calculator] Too many branches (13/12)
+scientific_calculator.py:298: [W0107(unnecessary-pass), ] Unnecessary pass statement
+scientific_calculator.py:303: [R1714(consider-using-in), ] Consider merging these comparisons with 'in' by using 'Yes_no in ('Y', 'y', 'Yes', 'yes')'. Use a set instead if elements are hashable.
+scientific_calculator.py:6: [C0411(wrong-import-order), ] standard import "import time" should be placed before "from tqdm import tqdm"
+
+
+Report
+======
+244 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |14     |14         |=          |0.00        |92.86    |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+308 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |256    |83.12 |256      |=          |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |17     |5.52  |17       |=          |
++----------+-------+------+---------+-----------+
+|empty     |35     |11.36 |35       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |96     |96       |96         |
++-----------+-------+---------+-----------+
+|refactor   |3      |3        |3          |
++-----------+-------+---------+-----------+
+|warning    |12     |12       |12         |
++-----------+-------+---------+-----------+
+|error      |1      |1        |1          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|invalid-name               |49          |
++---------------------------+------------+
+|line-too-long              |15          |
++---------------------------+------------+
+|missing-function-docstring |14          |
++---------------------------+------------+
+|superfluous-parens         |7           |
++---------------------------+------------+
+|redefined-outer-name       |6           |
++---------------------------+------------+
+|trailing-whitespace        |4           |
++---------------------------+------------+
+|unnecessary-pass           |3           |
++---------------------------+------------+
+|consider-using-f-string    |3           |
++---------------------------+------------+
+|unused-variable            |2           |
++---------------------------+------------+
+|consider-using-in          |2           |
++---------------------------+------------+
+|wrong-import-order         |1           |
++---------------------------+------------+
+|too-many-branches          |1           |
++---------------------------+------------+
+|singleton-comparison       |1           |
++---------------------------+------------+
+|redefined-builtin          |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|missing-final-newline      |1           |
++---------------------------+------------+
+|import-error               |1           |
++---------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 5.25/10 (previous run: 5.25/10, +0.00)
+
